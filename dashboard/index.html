@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NSE Screener — Daily Ranked Watchlist</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #0E1217;
+    --surface: #171C24;
+    --surface-raised: #1F2530;
+    --line: #2A3038;
+    --text: #E7E5DF;
+    --text-dim: #8B93A0;
+    --gold: #C9A24B;
+    --up: #4FAE6E;
+    --down: #C0564A;
+    --neutral: #6B7280;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--ink);
+    color: var(--text);
+    font-family: 'Space Grotesk', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  .mono { font-family: 'IBM Plex Mono', monospace; }
+
+  header {
+    border-bottom: 1px solid var(--line);
+    padding: 20px 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  header h1 {
+    font-size: 20px;
+    font-weight: 600;
+    margin: 0;
+    letter-spacing: -0.01em;
+  }
+  .meta {
+    font-size: 13px;
+    color: var(--text-dim);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .live-dot {
+    width: 7px; height: 7px; border-radius: 50%;
+    background: var(--up);
+    box-shadow: 0 0 0 3px rgba(79,174,110,0.15);
+  }
+
+  main {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 28px 32px 64px;
+    display: grid;
+    grid-template-columns: 1fr 300px;
+    gap: 24px;
+  }
+  @media (max-width: 860px) {
+    main { grid-template-columns: 1fr; }
+  }
+
+  .panel {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+  }
+  .panel-head {
+    padding: 16px 20px;
+    border-bottom: 1px solid var(--line);
+    font-size: 14px;
+    color: var(--text-dim);
+  }
+
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th {
+    text-align: left;
+    padding: 10px 14px;
+    color: var(--text-dim);
+    font-weight: 500;
+    font-size: 11px;
+    text-transform: none;
+    border-bottom: 1px solid var(--line);
+  }
+  td {
+    padding: 12px 14px;
