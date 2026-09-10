@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>NSE Equity Analyzer — Investment Desk</title>
+<style>
+:root{--bg:#111214;--sidebar:#1b1b1d;--sidebar2:#202022;--line:#303033;--text:#f3f3f4;--muted:#9b9ba1;--blue:#0a84ff;--blue2:#147ef5}
+*{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;overflow:hidden;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI",Arial,sans-serif}
+.app{display:flex;width:100%;height:100vh}.sidebar{width:258px;flex:0 0 258px;background:linear-gradient(180deg,#1c1c1e,#171719);border-right:1px solid #303033;padding:22px 16px;overflow-y:auto}.brand{font-size:19px;font-weight:700;letter-spacing:-.2px;padding:0 12px 18px}.brand span{color:#8f8f94;font-weight:500}.search{height:42px;border:1px solid #3a3a3e;background:#242426;border-radius:7px;display:flex;align-items:center;padding:0 12px;gap:10px;margin:0 0 24px}.search svg{width:19px;height:19px;stroke:var(--blue)}.search input{width:100%;border:0;outline:0;background:transparent;color:var(--text);font-size:16px}.search input::placeholder{color:#8e8e93}.nav-title{font-size:12px;font-weight:700;color:#9a9a9f;margin:0 0 8px;padding:0 12px;text-transform:none}.nav{display:flex;flex-direction:column;gap:3px}.nav-item{display:flex;align-items:center;gap:14px;width:100%;min-height:44px;padding:7px 12px;border-radius:8px;border:0;background:transparent;color:#e9e9eb;text-align:left;font-size:16px;font-weight:500;cursor:pointer}.nav-item:hover{background:#29292c}.nav-item.active{background:#303034;color:#fff}.icon{width:22px;height:22px;display:grid;place-items:center;color:var(--blue);flex:0 0 22px}.icon svg{width:21px;height:21px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}.divider{height:1px;background:#303033;margin:20px 8px}.hint{margin:22px 12px 0;padding-top:18px;border-top:1px solid #303033;color:#77777d;font-size:11px;line-height:1.45}.content{min-width:0;flex:1;height:100vh;background:#07101b}.content iframe{display:block;width:100%;height:100%;border:0;background:#07101b}
+@media(max-width:760px){.sidebar{width:76px;flex-basis:76px;padding:16px 8px}.brand{font-size:0;text-align:center;padding:2px 0 16px}.brand:before{content:'🇮🇳';font-size:25px}.search{height:42px;padding:0;justify-content:center;margin-bottom:18px}.search input{display:none}.search svg{width:20px}.nav-title,.hint,.divider{display:none}.nav-item{justify-content:center;padding:8px 0;min-height:48px}.nav-item .label{display:none}.icon{width:26px;height:26px}.icon svg{width:23px;height:23px}}
+</style>
+</head>
+<body>
+<div class="app">
+<aside class="sidebar">
+  <div class="brand">NSE Equity <span>Analyzer</span></div>
+  <div class="search"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-4-4"></path></svg><input id="filter" placeholder="Search" aria-label="Search sections"></div>
+  <div class="nav-title">Today</div>
+  <nav class="nav" id="nav">
+    <button class="nav-item active" data-target="top"><span class="icon"><svg viewBox="0 0 24 24"><rect x="4" y="4" width="16" height="16" rx="3"></rect><path d="M8 8h8M8 12h5M8 16h8"></path></svg></span><span class="label">Market Overview</span></button>
+    <button class="nav-item" data-target="Market levels"><span class="icon"><svg viewBox="0 0 24 24"><path d="M4 18V6M4 18h16"></path><path d="m7 15 3-4 3 2 5-7"></path></svg></span><span class="label">Market Levels</span></button>
+    <button class="nav-item" data-target="Ranked opportunities"><span class="icon"><svg viewBox="0 0 24 24"><path d="M4 18h16M6 15V9M12 15V5M18 15v-3"></path></svg></span><span class="label">Opportunities</span></button>
+    <button class="nav-item" data-target="Investment ranking"><span class="icon"><svg viewBox="0 0 24 24"><path d="M5 19V9M12 19V5M19 19v-7"></path><path d="M3 19h18"></path></svg></span><span class="label">Investments</span></button>
+    <button class="nav-item" data-target="IPO Intelligence"><span class="icon"><svg viewBox="0 0 24 24"><path d="M12 3v18M5 7h14M7 21h10"></path><path d="m5 7 3 6a4 4 0 0 0 8 0l3-6"></path></svg></span><span class="label">IPO Intelligence</span></button>
+    <div class="divider"></div>
+    <div class="nav-title">Categories</div>
+    <button class="nav-item" data-target="Ranked opportunities"><span class="icon"><svg viewBox="0 0 24 24"><path d="M4 17V7M4 17h16"></path><path d="m7 14 3-3 3 2 5-6"></path><circle cx="7" cy="14" r="1"></circle></svg></span><span class="label">Trading</span></button>
+    <button class="nav-item" data-target="Analyst report"><span class="icon"><svg viewBox="0 0 24 24"><path d="M6 3h9l3 3v15H6z"></path><path d="M14 3v4h4M9 12h6M9 16h6M9 8h2"></path></svg></span><span class="label">Research</span></button>
+    <button class="nav-item" data-target="Risk / avoid"><span class="icon"><svg viewBox="0 0 24 24"><path d="M12 3 21 7v5c0 5-3.5 8-9 9-5.5-1-9-4-9-9V7z"></path><path d="M12 8v5M12 17h.01"></path></svg></span><span class="label">Risk Management</span></button>
+    <button class="nav-item" data-target="Data freshness"><span class="icon"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"></circle><path d="M12 7v5l3 2"></path></svg></span><span class="label">Data Quality</span></button>
+    <button class="nav-item" data-target="Portfolio risk controls"><span class="icon"><svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h16"></path><circle cx="9" cy="6" r="2"></circle><circle cx="15" cy="12" r="2"></circle><circle cx="11" cy="18" r="2"></circle></svg></span><span class="label">Portfolio Controls</span></button>
+  </nav>
+  <div class="hint">Live dashboard sections are shown in the panel. Use the sidebar to jump directly to a market area.</div>
+</aside>
+<main class="content"><iframe id="desk" src="equity-analyzer.html?v=20260910-2" title="NSE Equity Analyzer"></iframe></main>
+</div>
+<script>
+const frame=document.getElementById('desk'),items=[...document.querySelectorAll('.nav-item')],filter=document.getElementById('filter');
+function jump(target){try{const d=frame.contentDocument||frame.contentWindow.document;if(target==='top'){d.documentElement.scrollTop=0;d.body.scrollTop=0;return}const hs=[...d.querySelectorAll('h2')];const h=hs.find(x=>x.textContent.toLowerCase().includes(target.toLowerCase()));if(h)h.scrollIntoView({behavior:'smooth',block:'start'});else{const all=[...d.querySelectorAll('h1,h2,h3')];const z=all.find(x=>x.textContent.toLowerCase().includes(target.toLowerCase()));if(z)z.scrollIntoView({behavior:'smooth',block:'start')}}}catch(e){}}
+items.forEach(btn=>btn.addEventListener('click',()=>{items.forEach(x=>x.classList.remove('active'));btn.classList.add('active');jump(btn.dataset.target)}));
+filter.addEventListener('input',()=>{const q=filter.value.trim().toLowerCase();items.forEach(x=>x.style.display=!q||x.textContent.toLowerCase().includes(q)?'flex':'none')});
+frame.addEventListener('load',()=>{const url=new URL(frame.src,location.href);url.searchParams.set('v',Date.now());frame.src=url.href});
+</script>
+</body>
+</html>
