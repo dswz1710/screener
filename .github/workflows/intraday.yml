@@ -1,0 +1,62 @@
+name: NSE Intraday Analyzer
+
+on:
+  schedule:
+    # GitHub cron uses UTC. NSE is typically 09:15-15:30 IST.
+    # Three scans: pre-open, post-open, midday; plus post-market review.
+    - cron: "15 3 * * 1-5"   # 08:45 IST
+    - cron: "45 3 * * 1-5"   # 09:15 IST
+    - cron: "0 7 * * 1-5"    # 12:30 IST
+    - cron: "15 10 * * 1-5"  # 15:45 IST
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Scan mode"
+        required: true
+        default: "open"
+        type: choice
+        options:
+          - preopen
+          - open
+          - midday
+          - postmarket
+
+permissions:
+  contents: write
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install yfinance pandas numpy
+
+      - name: Run scheduled analyzer
+        if: ${{ github.event_name == 'schedule' }}
+        run: |
+          H=$(TZ=Asia/Kolkata date +%H%M)
+          if [ "$H" = "0845" ]; then MODE=preopen;
+          elif [ "$H" = "0915" ]; then MODE=open;
+          elif [ "$H" = "1230" ]; then MODE=midday;
+          else MODE=postmarket; fi
+          python intraday_analyzer.py --mode "$MODE"
+
+      - name: Run manual analyzer
+        if: ${{ github.event_name == 'workflow_dispatch' }}
+        run: python intraday_analyzer.py --mode "${{ inputs.mode }}"
+
+      - name: Commit analysis results
+        run: |
+          git config user.name "screener-bot"
+          git config user.email "actions@github.com"
+          git add results/intraday_*.json
+          git diff --staged --quiet || git commit -m "Auto-update intraday analysis $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
