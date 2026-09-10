@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-09-10T15:40:00+05:30",
+  "source": "Current market-data snapshot; automated tracker refreshes this file during scheduled runs",
+  "open_ipos": [
+    {"name":"Kanohar Electricals","type":"Mainboard","sector":"Power equipment / transformers","subscription":42.8,"price_band":"₹601–₹632","dates":"08 Sep–10 Sep 2026","revenue_fy26":653.84,"revenue_growth_pct":45.1,"pat_fy26":129.73,"pat_growth_pct":99.2,"profile_view":"CONSIDER","score":91.0,"verdict":"TOP PICK","company_note":"Strong FY24–FY26 revenue and PAT growth; transformer/EPC exposure and established utility/PSU customer base."},
+    {"name":"Glass Wall Systems","type":"Mainboard","sector":"Building materials / façades","subscription":10.76,"price_band":"₹172–₹182","dates":"08 Sep–10 Sep 2026","profile_view":"WATCH","score":78.0,"verdict":"CONSIDER","company_note":"Very strong subscription demand and positive GMP sentiment; verify valuation and latest RHP earnings before applying."},
+    {"name":"Karamtara Engineering","type":"Mainboard","sector":"Renewables / transmission equipment","subscription":1.57,"price_band":"₹241–₹254","dates":"09 Sep–11 Sep 2026","revenue_fy26":4311.98,"revenue_growth_pct":36.5,"pat_fy26":228.75,"pat_growth_pct":64.2,"profile_view":"CONSIDER","score":82.0,"verdict":"TOP PICK","company_note":"Strong multi-year growth in renewable/transmission equipment; higher debt and commodity/regulatory sensitivity raise risk."},
+    {"name":"Rentomojo","type":"Mainboard","sector":"Consumer rental / subscription","subscription":1.67,"price_band":"₹384–₹404","dates":"09 Sep–11 Sep 2026","revenue_fy26":386.99,"revenue_growth_pct":45.5,"pat_fy26":104.30,"pat_growth_pct":142.1,"profile_view":"CONSIDER","score":81.0,"verdict":"TOP PICK","company_note":"Strong revenue/PAT growth and recurring subscription model; rich valuation and legal/operational risks require caution."},
+    {"name":"LCC Projects","type":"Mainboard","sector":"Infrastructure / EPC","subscription":2.24,"price_band":"₹139–₹146","dates":"09 Sep–11 Sep 2026","profile_view":"WATCH","score":61.0,"verdict":"WATCH","company_note":"Moderate demand response; evaluate order book, cash conversion and debt before subscribing."},
+    {"name":"Manipal Payment and Identity Solutions","type":"Mainboard","sector":"Payments / identity","subscription":0.23,"price_band":"₹322–₹339","dates":"09 Sep–11 Sep 2026","profile_view":"WATCH","score":50.0,"verdict":"WATCH","company_note":"Strong payment-card market position, but weak early subscription means investors should demand clearer growth and valuation support."},
+    {"name":"Asset Reconstruction","type":"Mainboard","sector":"Financial services / ARC","subscription":0.61,"price_band":"₹132–₹139","dates":"09 Sep–11 Sep 2026","profile_view":"WATCH","score":48.0,"verdict":"WATCH","company_note":"Specialised ARC business; current demand is muted, so fundamentals and valuation matter more than sentiment."},
+    {"name":"Steamhouse India","type":"Mainboard","sector":"Engineering / industrial","subscription":0.90,"price_band":"₹77–₹81","dates":"09 Sep–11 Sep 2026","profile_view":"WATCH","score":49.0,"verdict":"WATCH","company_note":"Early demand is modest; wait for stronger institutional participation and verify earnings quality."},
+    {"name":"Veegaland Developers","type":"Mainboard","sector":"Real estate / leisure","subscription":0.26,"price_band":"₹130–₹140","dates":"10 Sep–15 Sep 2026","profile_view":"CONSIDER","score":58.0,"verdict":"WATCH","company_note":"Kerala-focused developer with anchor participation; execution and concentration risks remain important."},
+    {"name":"Prasol Chemicals","type":"Mainboard","sector":"Specialty chemicals","subscription":0.77,"price_band":"₹643–₹676","dates":"08 Sep–10 Sep 2026","profile_view":"WATCH","score":55.0,"verdict":"WATCH","company_note":"Diversified specialty-chemical portfolio and global presence, but valuation is demanding and earnings delivery matters."}
+  ],
+  "trending": [
+    {"name":"Kanohar Electricals","subscription":42.8,"verdict":"TOP PICK"},
+    {"name":"Glass Wall Systems","subscription":10.76,"verdict":"CONSIDER"},
+    {"name":"Rentomojo","subscription":1.67,"verdict":"TOP PICK"},
+    {"name":"Karamtara Engineering","subscription":1.57,"verdict":"TOP PICK"},
+    {"name":"LCC Projects","subscription":2.24,"verdict":"WATCH"}
+  ],
+  "top_picks": [
+    {"name":"Kanohar Electricals","score":91.0,"reason":"Strong demand plus very strong FY26 revenue/PAT growth."},
+    {"name":"Karamtara Engineering","score":82.0,"reason":"Strong FY24–FY26 revenue/PAT growth with renewable/transmission exposure; higher risk."},
+    {"name":"Rentomojo","score":81.0,"reason":"Strong revenue/PAT growth and recurring model; valuation/legal risks require caution."}
+  ],
+  "recent_listings": [
+    {"name":"Deepa Jewellers","type":"Mainboard","issue_price":177,"listing_open":221,"listing_close":194.37,"listing_gain_pct":24.86,"ltp":201.23,"today_gain_pct":-8.95,"subscription":42.61},
+    {"name":"Rays of Belief","type":"Mainboard","issue_price":239,"listing_open":239,"listing_close":228.34,"listing_gain_pct":0.0,"ltp":229.81,"today_gain_pct":-3.85,"subscription":107.71},
+    {"name":"Shanti Inorganics","type":"SME","issue_price":83,"listing_open":157.7,"listing_close":165.55,"listing_gain_pct":90.0,"ltp":167.8,"today_gain_pct":6.4,"subscription":132.3},
+    {"name":"Phychem Technologies","type":"SME","issue_price":54,"ltp":53.07,"subscription":19.38},
+    {"name":"Fly-Hi Maritime Travels","type":"SME","issue_price":102,"ltp":73.7,"subscription":2.07}
+  ],
+  "upcoming_focus": [
+    {"name":"NSE","type":"Mainboard","status":"Upcoming","note":"Reported public subscription window 17–21 Sep 2026 after the issue-size revision."},
+    {"name":"Reliance Jio","type":"Mainboard","status":"Upcoming / watch","note":"Track only after official price band and dates are announced."}
+  ],
+  "methodology":["Subscription measures demand, not intrinsic value.","Company-performance fields use latest available FY26/RHP information where mapped.","GMP is unofficial and is never treated as proof of value.","TOP PICK means favourable model conditions, not a guaranteed listing gain."],
+  "disclaimer":"IPO data can change during the bidding day. Verify NSE/BSE subscription, RHP financials, valuation, lot size and latest company disclosures before applying."
+}
