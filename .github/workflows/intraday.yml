@@ -1,4 +1,4 @@
-name: NSE Intraday Analyzer
+name: NSE Equity Analyzer
 
 on:
   schedule:
@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "Scan mode"
+        description: "Analysis mode"
         required: true
         default: "open"
         type: choice
@@ -28,16 +28,13 @@ jobs:
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
       - name: Install dependencies
-        run: pip install yfinance pandas numpy
-
-      - name: Run analyzer and report
+        run: pip install yfinance pandas numpy feedparser
+      - name: Run market, intraday and investment engines
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             MODE="${{ inputs.mode }}"
@@ -49,12 +46,12 @@ jobs:
             else MODE=postmarket; fi
           fi
           python intraday_analyzer.py --mode "$MODE"
+          python investment_engine.py
           python daily_report.py
-
-      - name: Commit analysis and daily report
+      - name: Commit analysis data
         run: |
           git config user.name "screener-bot"
           git config user.email "actions@github.com"
           git add results/
-          git diff --staged --quiet || git commit -m "Auto-update market analysis $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git diff --staged --quiet || git commit -m "Auto-update equity investment analysis $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
