@@ -259,7 +259,10 @@ def attach_sentiment(df: pd.DataFrame, headlines: list) -> pd.DataFrame:
 
 
 def export_json(df: pd.DataFrame, overall_sentiment: float, headline_count: int):
-    """Write results in the shape the webpage dashboard expects."""
+    """Write results in the shape the webpage dashboard expects.
+    Written to BOTH results/data.json (archival) and docs/data.json
+    (what the live GitHub Pages site actually fetches, since Pages
+    only serves files inside the /docs folder)."""
     payload = {
         "generated_at": datetime.datetime.now().isoformat(),
         "market": "NSE",
@@ -272,6 +275,13 @@ def export_json(df: pd.DataFrame, overall_sentiment: float, headline_count: int)
     with open(json_path, "w") as f:
         json.dump(payload, f, indent=2, default=str)
     log.info(f"Dashboard data written to {json_path}")
+
+    docs_dir = os.path.join(_base_dir, "docs")
+    if os.path.isdir(docs_dir):
+        docs_json_path = os.path.join(docs_dir, "data.json")
+        with open(docs_json_path, "w") as f:
+            json.dump(payload, f, indent=2, default=str)
+        log.info(f"Live site data written to {docs_json_path}")
 
 
 def send_telegram_alert(message: str) -> bool:
