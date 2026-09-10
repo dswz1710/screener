@@ -39,23 +39,21 @@ def price_metrics(t):
     ema20=c.ewm(span=20,adjust=False).mean(); ema50=c.ewm(span=50,adjust=False).mean(); ema200=c.ewm(span=200,adjust=False).mean()
     delta=c.diff(); up=delta.clip(lower=0).ewm(alpha=1/14,adjust=False).mean(); dn=(-delta.clip(upper=0)).ewm(alpha=1/14,adjust=False).mean(); rs=up/dn.replace(0,np.nan); rsi=100-100/(1+rs)
     p=float(c.iloc[-1]); atr=float(pd.concat([d.High-d.Low,(d.High-c.shift()).abs(),(d.Low-c.shift()).abs()],axis=1).max(axis=1).rolling(14).mean().iloc[-1])
-    return {'price':round(p,2),'rsi':round(float(rsi.iloc[-1]),1),'ema20':round(float(ema20.iloc[-1]),2),'ema50':round(float(ema50.iloc[-1]),2),'ema200':round(float(ema200.iloc[-1]),2),'atr':round(atr,2),'ret3m':round(float(c.pct_change(63).iloc[-1]*100),2),'ret6m':round(float(c.pct_change(126).iloc[-1]*100),2),'ret1y':round(float(c.pct_change(252).iloc[-1]*100),2),'from_high_pct':round(float((p/d.High.max()-1)*100),2),'vol_ratio':round(float(d.Volume.iloc[-1]/max(d.Volume.tail(20).mean(),1)),2)}
+    return {'price':round(p,2),'rsi':round(float(rsi.iloc[-1]),1),'ema20':round(float(ema20.iloc[-1]),2),'ema50':round(float(ema50.iloc[-1]),2),'ema200':round(float(ema200.iloc[-1]),2),'atr':round(atr,2),'ret3m':round(float(c.pct_change(63).iloc[-1]*100),2),'ret6m':round(float(c.pct_change(126).iloc[-1]*100),2),'ret1y':round(float(c.pct_change(252).iloc[-1]*100),2) if len(c)>252 else None,'from_high_pct':round(float((p/d.High.max()-1)*100),2),'vol_ratio':round(float(d.Volume.iloc[-1]/max(d.Volume.tail(20).mean(),1)),2)}
 
 def fundamentals(t):
     i=get_info(t)
     return {'pe':i.get('trailingPE'),'forward_pe':i.get('forwardPE'),'pb':i.get('priceToBook'),'roe':i.get('returnOnEquity'),'roa':i.get('returnOnAssets'),'de':i.get('debtToEquity'),'profit_margin':i.get('profitMargins'),'revenue_growth':i.get('revenueGrowth'),'earnings_growth':i.get('earningsGrowth'),'dividend_yield':i.get('dividendYield'),'market_cap':i.get('marketCap'),'sector':i.get('sector'),'industry':i.get('industry')}
 
 def valuation_score(f):
-    pe=f.get('pe'); fpe=f.get('forward_pe'); pb=f.get('pb')
-    score=50
+    pe=f.get('pe'); fpe=f.get('forward_pe'); pb=f.get('pb'); score=50
     if isinstance(pe,(int,float)) and pe>0: score += 15 if pe<20 else 8 if pe<30 else -5 if pe<45 else -15
     if isinstance(fpe,(int,float)) and fpe>0 and isinstance(pe,(int,float)): score += 8 if fpe<pe else -4
     if isinstance(pb,(int,float)) and pb>0: score += 8 if pb<4 else 2 if pb<7 else -6
     return max(0,min(100,score))
 
 def quality_score(f):
-    score=50
-    roe=f.get('roe'); de=f.get('de'); pm=f.get('profit_margin'); eg=f.get('earnings_growth'); rg=f.get('revenue_growth')
+    score=50; roe=f.get('roe'); de=f.get('de'); pm=f.get('profit_margin'); eg=f.get('earnings_growth'); rg=f.get('revenue_growth')
     if isinstance(roe,(int,float)): score += 15 if roe>=.20 else 8 if roe>=.12 else -5 if roe<.05 else 0
     if isinstance(de,(int,float)): score += 12 if de<60 else 5 if de<120 else -12 if de>200 else 0
     if isinstance(pm,(int,float)): score += 8 if pm>.15 else 3 if pm>.08 else -5 if pm<0 else 0
@@ -85,9 +83,19 @@ def risk_score(p,f):
     if isinstance(de,(int,float)) and de>200: score-=15
     return max(0,min(100,score))
 
+def clean_json(value):
+    """Convert NumPy/Pandas values and non-finite floats to JSON-safe values."""
+    if isinstance(value, dict): return {k: clean_json(v) for k,v in value.items()}
+    if isinstance(value, list): return [clean_json(v) for v in value]
+    if isinstance(value, tuple): return [clean_json(v) for v in value]
+    if isinstance(value, (np.integer,)): return int(value)
+    if isinstance(value, (np.floating, float)):
+        x=float(value); return x if math.isfinite(x) else None
+    if pd.isna(value) if not isinstance(value,(str,bytes,bool)) else False: return None
+    return value
+
 def main():
-    benchmark=price_metrics(BENCH) or {}
-    records=[]
+    benchmark=price_metrics(BENCH) or {}; records=[]
     for t in WATCHLIST:
         p=price_metrics(t)
         if not p: continue
@@ -100,9 +108,10 @@ def main():
         else: view='AVOID'
         stop=round(p['price']-1.5*p['atr'],2); t1=round(p['price']+2*p['atr'],2); t2=round(p['price']+4*p['atr'],2)
         per_share_risk=max(p['price']-stop,.01); risk_budget=CAPITAL*RISK_PER_POSITION; risk_size=math.floor(risk_budget/per_share_risk); cap_size=math.floor((CAPITAL*MAX_POSITION)/p['price']); shares=max(0,min(risk_size,cap_size))
-        records.append({'ticker':t,'name':t.replace('.NS',''),'sector':f.get('sector'),'investment_score':investment_score,'view':view,'quality_score':q,'valuation_score':v,'technical_score':tech,'risk_score':risk,'relative_strength_6m_pct':rs,'price':p['price'],'rsi':p['rsi'],'ema20':p['ema20'],'ema50':p['ema50'],'ema200':p['ema200'],'atr':p['atr'],'ret3m_pct':p['ret3m'],'ret6m_pct':p['ret6m'],'ret1y_pct':p['ret1y'],'from_52w_high_pct':p['from_high_pct'],'pe':f.get('pe'),'forward_pe':f.get('forward_pe'),'pb':f.get('pb'),'roe_pct':round(f['roe']*100,2) if isinstance(f.get('roe'),(int,float)) else None,'debt_to_equity':f.get('de'),'revenue_growth_pct':round(f['revenue_growth']*100,2) if isinstance(f.get('revenue_growth'),(int,float)) else None,'earnings_growth_pct':round(f['earnings_growth']*100,2) if isinstance(f.get('earnings_growth'),(int,float)) else None,'stop_loss':stop,'target1':t1,'target2':t2,'suggested_shares':shares,'max_capital':round(shares*p['price'],2),'position_cap_pct':MAX_POSITION*100,'risk_budget':round(risk_budget,2),'confidence':'HIGH' if investment_score>=80 and min(q,v,tech)>=65 else 'MEDIUM' if investment_score>=65 else 'LOW','holding_period':'1–3 years' if view in ('BUY','ACCUMULATE') else 'watch / reassess'} )
+        records.append({'ticker':t,'name':t.replace('.NS',''),'sector':f.get('sector'),'investment_score':investment_score,'view':view,'quality_score':q,'valuation_score':v,'technical_score':tech,'risk_score':risk,'relative_strength_6m_pct':rs,'price':p['price'],'rsi':p['rsi'],'ema20':p['ema20'],'ema50':p['ema50'],'ema200':p['ema200'],'atr':p['atr'],'ret3m_pct':p['ret3m'],'ret6m_pct':p['ret6m'],'ret1y_pct':p['ret1y'],'from_52w_high_pct':p['from_high_pct'],'pe':f.get('pe'),'forward_pe':f.get('forward_pe'),'pb':f.get('pb'),'roe_pct':round(f['roe']*100,2) if isinstance(f.get('roe'),(int,float)) else None,'debt_to_equity':f.get('de'),'revenue_growth_pct':round(f['revenue_growth']*100,2) if isinstance(f.get('revenue_growth'),(int,float)) else None,'earnings_growth_pct':round(f['earnings_growth']*100,2) if isinstance(f.get('earnings_growth'),(int,float)) else None,'stop_loss':stop,'target1':t1,'target2':t2,'suggested_shares':shares,'max_capital':round(shares*p['price'],2),'position_cap_pct':MAX_POSITION*100,'risk_budget':round(risk_budget,2),'confidence':'HIGH' if investment_score>=80 and min(q,v,tech)>=65 else 'MEDIUM' if investment_score>=65 else 'LOW','holding_period':'1–3 years' if view in ('BUY','ACCUMULATE') else 'watch / reassess'})
     records.sort(key=lambda x:x['investment_score'],reverse=True)
     payload={'generated_at':pd.Timestamp.now(tz='Asia/Kolkata').isoformat(),'capital':CAPITAL,'risk_per_position_pct':RISK_PER_POSITION*100,'max_position_pct':MAX_POSITION*100,'benchmark':'NIFTY 50','benchmark_6m_return_pct':benchmark.get('ret6m'),'ranked_investments':records,'top_buys':[x for x in records if x['view']=='BUY'][:5],'accumulate':[x for x in records if x['view']=='ACCUMULATE'][:5],'risk_rules':['Position size is capped by both portfolio allocation and stop-loss risk.','Never risk more than the configured risk budget on one position.','Do not buy solely because the score is high; verify the latest result, valuation and catalyst.','Avoid averaging down unless the original thesis remains intact and valuation/risk have been reassessed.','A broken long-term thesis overrides a technical BUY signal.'],'methodology':{'quality':30,'valuation':25,'technical':25,'risk':10,'relative_strength':10},'disclaimer':'Decision-support only; scores are heuristics, not forecasts or guarantees. Fundamental fields from free market-data sources may be incomplete or delayed.'}
-    (RESULTS/'investment_latest.json').write_text(json.dumps(payload,indent=2,default=str),encoding='utf-8')
+    payload=clean_json(payload)
+    (RESULTS/'investment_latest.json').write_text(json.dumps(payload,indent=2,allow_nan=False),encoding='utf-8')
     print(json.dumps({'top_buys':payload['top_buys'],'accumulate':payload['accumulate']},indent=2))
 if __name__=='__main__':main()
