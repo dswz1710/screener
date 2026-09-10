@@ -2,14 +2,14 @@ name: NSE Equity Analyzer
 
 on:
   schedule:
-    - cron: "15 3 * * 1-5"   # 08:45 IST
-    - cron: "45 3 * * 1-5"   # 09:15 IST
-    - cron: "30 4 * * 1-5"   # 10:00 IST
-    - cron: "30 5 * * 1-5"   # 11:00 IST
-    - cron: "0 7 * * 1-5"    # 12:30 IST
-    - cron: "30 8 * * 1-5"   # 14:00 IST
-    - cron: "30 9 * * 1-5"   # 15:00 IST
-    - cron: "15 10 * * 1-5"  # 15:45 IST
+    - cron: "15 3 * * 1-5"
+    - cron: "45 3 * * 1-5"
+    - cron: "30 4 * * 1-5"
+    - cron: "30 5 * * 1-5"
+    - cron: "0 7 * * 1-5"
+    - cron: "30 8 * * 1-5"
+    - cron: "30 9 * * 1-5"
+    - cron: "15 10 * * 1-5"
   workflow_dispatch:
     inputs:
       mode:
@@ -17,11 +17,7 @@ on:
         required: true
         default: "open"
         type: choice
-        options:
-          - preopen
-          - open
-          - midday
-          - postmarket
+        options: [preopen, open, midday, postmarket]
 
 permissions:
   contents: write
@@ -38,7 +34,7 @@ jobs:
           python-version: "3.11"
       - name: Install dependencies
         run: pip install yfinance pandas numpy feedparser requests lxml
-      - name: Run market, intraday, investment and IPO engines
+      - name: Run market, intraday, investment, IPO and context engines
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             MODE="${{ inputs.mode }}"
@@ -53,11 +49,12 @@ jobs:
           python intraday_analyzer.py --mode "$MODE"
           python investment_engine.py
           python ipo_tracker.py
+          python market_context.py || true
           python daily_report.py
       - name: Commit analysis data
         run: |
           git config user.name "screener-bot"
           git config user.email "actions@github.com"
           git add results/
-          git diff --staged --quiet || git commit -m "Auto-update equity and IPO analysis $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git diff --staged --quiet || git commit -m "Auto-update equity, macro and IPO intelligence $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
