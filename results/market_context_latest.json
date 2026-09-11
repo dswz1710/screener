@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-09-11T08:46:13.538579+00:00",
+  "generated_at": "2026-09-11T09:44:16.754600+00:00",
   "quotes": {
     "Brent crude": {
-      "value": 104.91999816894531,
-      "change_pct": -2.517884561579875,
+      "value": 104.63999938964844,
+      "change_pct": -2.7780339497078033,
       "asof": "2026-09-11T04:00:00+00:00"
     },
     "USD/INR": {
-      "value": 95.6624984741211,
-      "change_pct": 0.57899999791442,
-      "asof": "2026-09-11T08:46:09+00:00"
+      "value": 95.55500030517578,
+      "change_pct": 0.4659770421419296,
+      "asof": "2026-09-11T09:44:11+00:00"
     },
     "India VIX": {
-      "value": 12.25,
-      "change_pct": 3.813557643994514,
+      "value": 12.332500457763672,
+      "change_pct": 4.512714054419398,
       "asof": "2026-09-11T03:45:00+00:00"
     },
     "Nifty Bank": {
-      "value": 56489.0,
-      "change_pct": 0.03019336411418383,
+      "value": 56621.6484375,
+      "change_pct": 0.2650859777659331,
       "asof": "2026-09-11T03:45:00+00:00"
     },
     "S&P 500": {
@@ -54,7 +54,5 @@
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html"
     }
   ],
-  "notes": [
-    "Rupee weakness is elevated; importers and margin-sensitive sectors may face pressure."
-  ]
+  "notes": []
 }
