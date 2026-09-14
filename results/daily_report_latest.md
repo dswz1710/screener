@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 14 September 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-09-14T09:45:59.570279+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-09-14T10:27:39.174890+00:00
 
 ### Market regime: **RISK-OFF**
 
@@ -16,12 +16,21 @@ Nifty **23398.10** · Change **-0.34%** · RSI **27.2** · EMA20 **23898.06** ·
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 107.49 | 2.75% | Oil/inflation risk |
+| Brent crude | 107.75 | 3.00% | Oil/inflation risk |
 | USD/INR | 95.54 | -0.16% | Rupee pressure |
 | India VIX | 12.29 | 4.15% | Volatility gauge |
 | Nifty Bank | 56606.55 | 0.24% | Banking breadth |
 | S&P 500 | 7656.98 | 0.86% | Global risk cue |
 | Nasdaq | 26333.04 | 0.96% | Global tech cue |
+
+- Oil is moving sharply higher; watch inflation, INR and rate-sensitive sectors.
+
+### 📰 Fresh market headlines
+
+- **Moneycontrol:** Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher
+- **Moneycontrol:** Sensex, Nifty gain for third day in a row; easing volatility to support bull trend
+- **Moneycontrol:** Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years
+- **Moneycontrol:** Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action
 
 # 🎯 Trading opportunities
 
