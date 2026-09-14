@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-14T03:55:52.846313+00:00",
+  "generated_at": "2026-09-14T04:43:51.052010+00:00",
   "quotes": {
     "Brent crude": {
-      "value": 107.91000366210938,
-      "change_pct": 3.1545770313581967,
-      "asof": "2026-09-14T03:45:47+00:00"
+      "value": 107.72000122070312,
+      "change_pct": 2.972947703093509,
+      "asof": "2026-09-14T04:00:00+00:00"
     },
     "USD/INR": {
       "value": 95.54000091552734,
@@ -54,7 +54,5 @@
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html"
     }
   ],
-  "notes": [
-    "Oil is moving sharply higher; watch inflation, INR and rate-sensitive sectors."
-  ]
+  "notes": []
 }
