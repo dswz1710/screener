@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 14 September 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-09-14T04:43:38.253150+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-09-14T05:39:59.135176+00:00
 
 ### Market regime: **RISK-OFF**
 
@@ -16,7 +16,7 @@ Nifty **23398.10** · Change **-0.34%** · RSI **27.2** · EMA20 **23898.06** ·
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 107.72 | 2.97% | Oil/inflation risk |
+| Brent crude | 107.26 | 2.53% | Oil/inflation risk |
 | USD/INR | 95.54 | -0.16% | Rupee pressure |
 | India VIX | 12.29 | 4.15% | Volatility gauge |
 | Nifty Bank | 56606.55 | 0.24% | Banking breadth |
