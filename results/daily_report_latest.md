@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 14 September 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-09-14T08:47:24.581270+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-09-14T09:45:59.570279+00:00
 
 ### Market regime: **RISK-OFF**
 
@@ -16,21 +16,12 @@ Nifty **23398.10** · Change **-0.34%** · RSI **27.2** · EMA20 **23898.06** ·
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 107.93 | 3.17% | Oil/inflation risk |
+| Brent crude | 107.49 | 2.75% | Oil/inflation risk |
 | USD/INR | 95.54 | -0.16% | Rupee pressure |
 | India VIX | 12.29 | 4.15% | Volatility gauge |
 | Nifty Bank | 56606.55 | 0.24% | Banking breadth |
 | S&P 500 | 7656.98 | 0.86% | Global risk cue |
 | Nasdaq | 26333.04 | 0.96% | Global tech cue |
-
-- Oil is moving sharply higher; watch inflation, INR and rate-sensitive sectors.
-
-### 📰 Fresh market headlines
-
-- **Moneycontrol:** Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher
-- **Moneycontrol:** Sensex, Nifty gain for third day in a row; easing volatility to support bull trend
-- **Moneycontrol:** Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years
-- **Moneycontrol:** Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action
 
 # 🎯 Trading opportunities
 
@@ -77,7 +68,7 @@ Nifty **23398.10** · Change **-0.34%** · RSI **27.2** · EMA20 **23898.06** ·
 | 6 | **TITAN** | **66.2** | **WATCH** | 65.0 | 37.0 | 93.0 | 42.0 | 26.6% | 76.93 | — | 195.00 | ₹5009.50 | ₹4895.89 | 2 |
 | 7 | **SUNPHARMA** | **64.6** | **WATCH** | 85.0 | 55.0 | 57.0 | 50.0 | 5.7% | 36.49 | — | 5.52 | ₹1840.00 | ₹1789.16 | 8 |
 | 8 | **AXISBANK** | **62.9** | **WATCH** | 81.0 | 81.0 | 30.0 | 50.0 | 4.5% | 14.03 | 13.3% | — | ₹1246.00 | ₹1210.09 | 12 |
-| 9 | **BAJFINANCE** | **61.7** | **AVOID** | 61.0 | 55.0 | 65.0 | 35.0 | 24.6% | 31.74 | — | 314.83 | ₹1034.50 | ₹1005.77 | 14 |
+| 9 | **BAJFINANCE** | **61.7** | **AVOID** | 61.0 | 55.0 | 65.0 | 35.0 | 24.6% | 31.77 | — | 314.83 | ₹1034.50 | ₹1005.77 | 14 |
 | 10 | **TCS** | **60.5** | **AVOID** | 95.0 | 67.0 | 25.0 | 50.0 | -5.1% | 16.00 | 47.7% | 10.21 | ₹2200.80 | ₹2116.34 | 6 |
 | 11 | **INFY** | **59.3** | **AVOID** | 90.0 | 75.0 | 25.0 | 50.0 | -13.3% | 13.48 | 32.0% | 9.54 | ₹1037.70 | ₹994.37 | 14 |
 | 12 | **SBIN** | **59.0** | **AVOID** | 76.0 | 81.0 | 25.0 | 50.0 | -1.3% | 10.65 | 15.2% | — | ₹995.70 | ₹970.43 | 15 |
