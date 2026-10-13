@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T12:03:36.643785+00:00",
+  "generated_at": "2026-10-13T12:52:27.486263+00:00",
   "mode": "open",
   "market": {
     "price": 22721.95,
@@ -884,7 +884,7 @@
       },
       "intraday": {
         "intraday_price": 17.87,
-        "vwap": 17.7,
+        "vwap": 17.69,
         "intraday_ema20": 17.78,
         "intraday_ema50": 17.71,
         "intraday_volume_ratio": 1.83,
