@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 13 October 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-10-13T14:38:09.550275+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-10-13T16:20:11.582307+00:00
 
 ### Market regime: **RISK-OFF**
 
@@ -16,12 +16,12 @@ Nifty **22721.95** · Change **1.60%** · RSI **43.4** · EMA20 **22875.54** · 
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 105.96 | -0.65% | Oil/inflation risk |
+| Brent crude | 105.63 | -0.96% | Oil/inflation risk |
 | USD/INR | 95.27 | -1.60% | Rupee pressure |
 | India VIX | 14.12 | -7.41% | Volatility gauge |
 | Nifty Bank | 55481.05 | 1.03% | Banking breadth |
-| S&P 500 | 7801.90 | -0.07% | Global risk cue |
-| Nasdaq | 27214.25 | -0.12% | Global tech cue |
+| S&P 500 | 7798.01 | -0.12% | Global risk cue |
+| Nasdaq | 27215.50 | -0.11% | Global tech cue |
 
 # 🎯 Trading opportunities
 
