@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 13 October 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-10-13T16:20:11.582307+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-10-13T17:05:29.391974+00:00
 
 ### Market regime: **RISK-OFF**
 
@@ -16,12 +16,19 @@ Nifty **22721.95** · Change **1.60%** · RSI **43.4** · EMA20 **22875.54** · 
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 105.63 | -0.96% | Oil/inflation risk |
+| Brent crude | 106.04 | -0.57% | Oil/inflation risk |
 | USD/INR | 95.27 | -1.60% | Rupee pressure |
 | India VIX | 14.12 | -7.41% | Volatility gauge |
 | Nifty Bank | 55481.05 | 1.03% | Banking breadth |
-| S&P 500 | 7798.01 | -0.12% | Global risk cue |
-| Nasdaq | 27215.50 | -0.11% | Global tech cue |
+| S&P 500 | 7799.55 | -0.10% | Global risk cue |
+| Nasdaq | 27198.44 | -0.17% | Global tech cue |
+
+### 📰 Fresh market headlines
+
+- **Moneycontrol:** Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher
+- **Moneycontrol:** Sensex, Nifty gain for third day in a row; easing volatility to support bull trend
+- **Moneycontrol:** Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years
+- **Moneycontrol:** Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action
 
 # 🎯 Trading opportunities
 
@@ -62,7 +69,7 @@ Nifty **22721.95** · Change **1.60%** · RSI **43.4** · EMA20 **22875.54** · 
 |---:|---|---:|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | 1 | **KOTAKBANK** | **79.3** | **ACCUMULATE** | 73.0 | 74.0 | 100.0 | 42.0 | 23.6% | 21.64 | — | — | ₹439.00 | ₹422.94 | 34 |
 | 2 | **HAL** | **75.8** | **ACCUMULATE** | 80.0 | 47.0 | 100.0 | 50.0 | 26.2% | 35.71 | — | 0.16 | ₹4869.00 | ₹4691.51 | 3 |
-| 3 | **AXISBANK** | **71.6** | **WATCH** | 81.0 | 81.0 | 67.0 | 50.0 | 1.7% | 14.26 | 13.3% | — | ₹1268.40 | ₹1225.59 | 11 |
+| 3 | **AXISBANK** | **71.6** | **WATCH** | 81.0 | 81.0 | 67.0 | 50.0 | 1.7% | 14.19 | 13.3% | — | ₹1268.40 | ₹1225.59 | 11 |
 | 4 | **ICICIBANK** | **66.6** | **WATCH** | 76.0 | 81.0 | 45.0 | 50.0 | 11.7% | 17.58 | 16.1% | — | ₹1360.20 | ₹1325.10 | 11 |
 | 5 | **TCS** | **65.9** | **WATCH** | 95.0 | 75.0 | 40.0 | 50.0 | -6.8% | 15.68 | 45.6% | 9.83 | ₹2269.30 | ₹2180.61 | 6 |
 | 6 | **INFY** | **62.8** | **WATCH** | 90.0 | 75.0 | 40.0 | 50.0 | -14.7% | 14.42 | 32.0% | 9.54 | ₹1062.10 | ₹1020.65 | 14 |
@@ -73,9 +80,9 @@ Nifty **22721.95** · Change **1.60%** · RSI **43.4** · EMA20 **22875.54** · 
 | 11 | **BHARTIARTL** | **56.9** | **AVOID** | 88.0 | 55.0 | 25.0 | 50.0 | 2.7% | 37.21 | 20.1% | 100.42 | ₹1806.50 | ₹1757.38 | 8 |
 | 12 | **ADANIENT** | **56.8** | **AVOID** | 62.0 | 55.0 | 38.0 | 50.0 | 37.6% | 43.36 | — | 119.56 | ₹2695.00 | ₹2550.84 | 5 |
 | 13 | **ONGC** | **56.1** | **AVOID** | 77.0 | 81.0 | 25.0 | 50.0 | -17.3% | 6.40 | — | 42.55 | ₹222.65 | ₹216.17 | 67 |
-| 14 | **TITAN** | **54.3** | **AVOID** | 65.0 | 37.0 | 57.0 | 50.0 | 6.6% | 69.16 | — | 195.00 | ₹4487.00 | ₹4325.31 | 3 |
+| 14 | **TITAN** | **54.3** | **AVOID** | 65.0 | 37.0 | 57.0 | 50.0 | 6.6% | 69.00 | — | 195.00 | ₹4487.00 | ₹4325.31 | 3 |
 | 15 | **TATASTEEL** | **54.2** | **AVOID** | 65.0 | 81.0 | 25.0 | 50.0 | -9.2% | 19.60 | — | 89.02 | ₹175.00 | ₹167.97 | 85 |
-| 16 | **ULTRACEMCO** | **53.9** | **AVOID** | 80.0 | 55.0 | 25.0 | 50.0 | -0.6% | 37.05 | — | 29.43 | ₹10750.00 | ₹10432.10 | 1 |
+| 16 | **ULTRACEMCO** | **53.9** | **AVOID** | 80.0 | 55.0 | 25.0 | 50.0 | -0.6% | 36.51 | — | 29.43 | ₹10750.00 | ₹10432.10 | 1 |
 | 17 | **ASIANPAINT** | **52.8** | **AVOID** | 80.0 | 37.0 | 30.0 | 50.0 | 10.2% | 47.66 | — | 17.85 | ₹2376.00 | ₹2298.22 | 6 |
 | 18 | **IRB** | **52.2** | **AVOID** | 64.0 | 74.0 | 25.0 | 50.0 | -8.9% | 23.21 | — | 95.60 | ₹17.87 | ₹16.97 | 839 |
 | 19 | **RELIANCE** | **51.7** | **AVOID** | 61.0 | 74.0 | 25.0 | 50.0 | -6.8% | 20.92 | — | 46.28 | ₹1166.70 | ₹1133.72 | 12 |
@@ -115,7 +122,7 @@ Nifty **22721.95** · Change **1.60%** · RSI **43.4** · EMA20 **22875.54** · 
 
 | Metric | Score | Metric | Value |
 |---|---:|---|---:|
-| Quality | 81.0 | P/E | 14.26 |
+| Quality | 81.0 | P/E | 14.19 |
 | Valuation | 81.0 | ROE | 13.3% |
 | Technical | 67.0 | D/E | — |
 | Risk | 50.0 | Rev growth | 14.0% |
