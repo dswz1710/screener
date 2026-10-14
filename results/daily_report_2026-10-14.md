@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 14 October 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-10-14T12:30:39.078515+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-10-14T13:58:21.491758+00:00
 
 ### Market regime: **RISK-OFF**
 
@@ -16,12 +16,12 @@ Nifty **22622.70** · Change **-0.44%** · RSI **41.7** · EMA20 **22851.46** ·
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 105.80 | 0.10% | Oil/inflation risk |
+| Brent crude | 105.91 | 0.21% | Oil/inflation risk |
 | USD/INR | 95.14 | -0.66% | Rupee pressure |
 | India VIX | 14.62 | 3.58% | Volatility gauge |
 | Nifty Bank | 55316.00 | -0.30% | Banking breadth |
-| S&P 500 | 7805.45 | -0.02% | Global risk cue |
-| Nasdaq | 27204.38 | -0.15% | Global tech cue |
+| S&P 500 | 7758.27 | -0.60% | Global risk cue |
+| Nasdaq | 26981.57 | -0.82% | Global tech cue |
 
 ### 📰 Fresh market headlines
 
@@ -199,7 +199,7 @@ Nifty **22622.70** · Change **-0.44%** · RSI **41.7** · EMA20 **22851.46** ·
 *IPO subscription measures demand, not quality. GMP is unofficial; verify the RHP and official exchange disclosures.*
 
 # 🧠 What changed today?
-- KOTAKBANK: BUY-ON-DIPS → BUY WATCH
+- No major rule-based changes detected.
 
 # 🏆 Today's final call
 
