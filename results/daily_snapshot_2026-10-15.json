@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T13:39:01.219841+00:00",
+  "generated_at": "2026-10-15T14:21:52.415906+00:00",
   "market": {
     "price": 22997.35,
     "change_pct": 1.66,
@@ -178,8 +178,8 @@
         "intraday_score": 80,
         "trigger": 4911.5,
         "stop_loss": 4824.9,
-        "target1": 5084.69,
-        "target2": 5171.29,
+        "target1": 5084.71,
+        "target2": 5171.31,
         "risk_reward": 3.0
       },
       "catalyst": null,
@@ -333,7 +333,7 @@
       },
       "intraday": {
         "intraday_price": 2350.0,
-        "vwap": 2256.87,
+        "vwap": 2256.88,
         "intraday_ema20": 2357.71,
         "intraday_ema50": 2356.69,
         "intraday_volume_ratio": 2.12,
@@ -342,9 +342,9 @@
         "intraday_direction": "LONG WATCH",
         "intraday_score": 75,
         "trigger": 2365.1,
-        "stop_loss": 2256.87,
+        "stop_loss": 2256.88,
         "target1": 2581.55,
-        "target2": 2689.78,
+        "target2": 2689.77,
         "risk_reward": 3.0
       },
       "catalyst": null,
@@ -388,7 +388,7 @@
       },
       "intraday": {
         "intraday_price": 1288.0,
-        "vwap": 1266.25,
+        "vwap": 1266.26,
         "intraday_ema20": 1287.8,
         "intraday_ema50": 1286.6,
         "intraday_volume_ratio": 0.78,
@@ -397,9 +397,9 @@
         "intraday_direction": "LONG WATCH",
         "intraday_score": 65,
         "trigger": 1292.3,
-        "stop_loss": 1266.25,
+        "stop_loss": 1266.26,
         "target1": 1344.39,
-        "target2": 1370.44,
+        "target2": 1370.43,
         "risk_reward": 3.0
       },
       "catalyst": null,
@@ -563,8 +563,8 @@
         "intraday_score": 90,
         "trigger": 10896.0,
         "stop_loss": 10723.57,
-        "target1": 11240.86,
-        "target2": 11413.29,
+        "target1": 11240.87,
+        "target2": 11413.3,
         "risk_reward": 3.0
       },
       "catalyst": null,
@@ -663,7 +663,7 @@
       },
       "intraday": {
         "intraday_price": 4455.8,
-        "vwap": 4421.08,
+        "vwap": 4421.07,
         "intraday_ema20": 4449.07,
         "intraday_ema50": 4447.69,
         "intraday_volume_ratio": 3.05,
