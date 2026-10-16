@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 16 October 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-10-16T11:57:29.365332+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-10-16T13:28:55.868815+00:00
 
 ### Market regime: **RISK-OFF**
 
@@ -16,7 +16,7 @@ Nifty **23146.15** · Change **0.65%** · RSI **52.8** · EMA20 **22892.10** · 
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 106.46 | 0.51% | Oil/inflation risk |
+| Brent crude | 105.83 | -0.08% | Oil/inflation risk |
 | USD/INR | 94.96 | -0.20% | Rupee pressure |
 | India VIX | 14.02 | -0.04% | Volatility gauge |
 | Nifty Bank | 55844.00 | 0.06% | Banking breadth |
@@ -199,10 +199,7 @@ Nifty **23146.15** · Change **0.65%** · RSI **52.8** · EMA20 **22892.10** · 
 *IPO subscription measures demand, not quality. GMP is unofficial; verify the RHP and official exchange disclosures.*
 
 # 🧠 What changed today?
-- BHARTIARTL: BUY-ON-DIPS → BUY WATCH
-- TCS: BUY-ON-DIPS → BUY WATCH
-- RELIANCE: WAIT → BUY WATCH
-- KOTAKBANK: WAIT → BUY-ON-DIPS
+- No major rule-based changes detected.
 
 # 🏆 Today's final call
 
