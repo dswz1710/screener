@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:50:19.121451+00:00",
+  "generated_at": "2026-10-19T16:36:28.864322+00:00",
   "market": {
     "price": 22888.95,
     "change_pct": -1.11,
@@ -168,7 +168,7 @@
       },
       "intraday": {
         "intraday_price": 4959.0,
-        "vwap": 4916.11,
+        "vwap": 4916.12,
         "intraday_ema20": 4951.75,
         "intraday_ema50": 4958.49,
         "intraday_volume_ratio": 1.14,
@@ -564,7 +564,7 @@
         "trigger": 1232.5,
         "stop_loss": 1265.48,
         "target1": 1166.54,
-        "target2": 1133.56,
+        "target2": 1133.57,
         "risk_reward": 3.0
       },
       "catalyst": null,
