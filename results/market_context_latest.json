@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-19T16:36:27.826207+00:00",
+  "generated_at": "2026-10-19T16:59:43.449122+00:00",
   "quotes": {
     "Brent crude": {
-      "value": 109.43000030517578,
-      "change_pct": -0.3914075211968182,
+      "value": 109.33999633789062,
+      "change_pct": -0.47333357871103265,
       "asof": "2026-10-19T04:00:00+00:00"
     },
     "USD/INR": {
@@ -22,16 +22,37 @@
       "asof": "2026-10-19T03:45:00+00:00"
     },
     "S&P 500": {
-      "value": 7708.1298828125,
-      "change_pct": 0.6356853996992262,
+      "value": 7701.31982421875,
+      "change_pct": 0.5467747398357536,
       "asof": "2026-10-19T13:30:00+00:00"
     },
     "Nasdaq": {
-      "value": 26519.84375,
-      "change_pct": 1.4529993398683994,
+      "value": 26475.9765625,
+      "change_pct": 1.2851832023966558,
       "asof": "2026-10-19T13:30:00+00:00"
     }
   },
-  "headlines": [],
+  "headlines": [
+    {
+      "source": "Moneycontrol",
+      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
+      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html"
+    },
+    {
+      "source": "Moneycontrol",
+      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html"
+    },
+    {
+      "source": "Moneycontrol",
+      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
+      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html"
+    },
+    {
+      "source": "Moneycontrol",
+      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html"
+    }
+  ],
   "notes": []
 }
