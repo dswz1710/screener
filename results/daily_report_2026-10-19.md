@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 19 October 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-10-19T11:03:59.619279+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-10-19T14:05:39.227949+00:00
 
 ### Market regime: **RISK-OFF**
 
@@ -16,12 +16,12 @@ Nifty **22888.95** · Change **-1.11%** · RSI **47.7** · EMA20 **22891.80** ·
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 108.25 | -1.47% | Oil/inflation risk |
+| Brent crude | 108.01 | -1.68% | Oil/inflation risk |
 | USD/INR | 94.92 | 0.41% | Rupee pressure |
 | India VIX | 14.77 | 5.07% | Volatility gauge |
 | Nifty Bank | 55488.10 | -0.64% | Banking breadth |
-| S&P 500 | 7659.44 | -1.09% | Global risk cue |
-| Nasdaq | 26140.03 | -2.15% | Global tech cue |
+| S&P 500 | 7691.91 | 0.42% | Global risk cue |
+| Nasdaq | 26370.85 | 0.88% | Global tech cue |
 
 ### 📰 Fresh market headlines
 
@@ -197,10 +197,7 @@ Nifty **22888.95** · Change **-1.11%** · RSI **47.7** · EMA20 **22891.80** ·
 *IPO subscription measures demand, not quality. GMP is unofficial; verify the RHP and official exchange disclosures.*
 
 # 🧠 What changed today?
-- KOTAKBANK: BUY-ON-DIPS → BUY WATCH
-- INFY: BUY-ON-DIPS → BUY WATCH
-- HAL: BUY-ON-DIPS → BUY WATCH
-- BAJFINANCE: WAIT → BUY-ON-DIPS
+- No major rule-based changes detected.
 
 # 🏆 Today's final call
 
