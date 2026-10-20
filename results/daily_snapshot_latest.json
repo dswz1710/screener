@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T16:59:45.231323+00:00",
+  "generated_at": "2026-10-20T08:37:26.263923+00:00",
   "market": {
     "price": 22888.95,
     "change_pct": -1.11,
@@ -8,7 +8,7 @@
     "ema50": 23297.35,
     "ema200": 24118.6,
     "atr": 303.86,
-    "volume_ratio": 0.0,
+    "volume_ratio": 0.86,
     "return20_pct": -1.96,
     "return60_pct": -4.11,
     "52w_high": 26373.2,
@@ -168,7 +168,7 @@
       },
       "intraday": {
         "intraday_price": 4959.0,
-        "vwap": 4916.11,
+        "vwap": 4916.12,
         "intraday_ema20": 4951.75,
         "intraday_ema50": 4958.49,
         "intraday_volume_ratio": 1.14,
@@ -307,7 +307,7 @@
         "ema50": 991.7,
         "ema200": 1010.65,
         "atr": 17.33,
-        "volume_ratio": 1.62,
+        "volume_ratio": 1.63,
         "return20_pct": -2.26,
         "return60_pct": -3.84,
         "52w_high": 1234.7,
@@ -323,7 +323,7 @@
         "ema50": 991.7,
         "ema200": 1010.65,
         "atr": 17.33,
-        "volume_ratio": 1.62,
+        "volume_ratio": 1.63,
         "return20_pct": -2.26,
         "return60_pct": -3.84,
         "52w_high": 1234.7,
@@ -564,7 +564,7 @@
         "trigger": 1232.5,
         "stop_loss": 1265.48,
         "target1": 1166.54,
-        "target2": 1133.56,
+        "target2": 1133.57,
         "risk_reward": 3.0
       },
       "catalyst": null,
