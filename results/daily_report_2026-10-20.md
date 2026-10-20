@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 20 October 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-10-20T08:53:34.112450+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-10-20T09:34:38.586409+00:00
 
 ### Market regime: **RISK-OFF**
 
@@ -16,8 +16,8 @@ Nifty **22888.95** · Change **-1.11%** · RSI **47.7** · EMA20 **22891.80** ·
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 110.63 | 0.99% | Oil/inflation risk |
-| USD/INR | 94.92 | -0.06% | Rupee pressure |
+| Brent crude | 111.21 | 1.52% | Oil/inflation risk |
+| USD/INR | 94.93 | -0.05% | Rupee pressure |
 | India VIX | 14.77 | 5.05% | Volatility gauge |
 | Nifty Bank | 55488.10 | -0.64% | Banking breadth |
 | S&P 500 | 7690.73 | 0.41% | Global risk cue |
@@ -43,7 +43,7 @@ Nifty **22888.95** · Change **-1.11%** · RSI **47.7** · EMA20 **22891.80** ·
 | 7 | **BAJFINANCE** | **70.8** | **BUY-ON-DIPS** | BEARISH | 41.6 | -2.52% | -8.0% | -7.9% | 955.65 | 969.89 | 927.17 | 912.93 | 3.0 |
 | 8 | **ITC** | **66.5** | **WAIT** | BEARISH | 46.6 | -1.02% | -0.6% | -7.3% | 260.50 | 262.71 | 256.09 | 253.88 | 3.0 |
 | 9 | **ONGC** | **66.5** | **WAIT** | BEARISH | 45.1 | 1.35% | -3.4% | -10.8% | 225.00 | 222.28 | 230.43 | 233.15 | 3.0 |
-| 10 | **AXISBANK** | **64.5** | **WAIT** | BEARISH | 46.7 | -4.19% | -1.7% | 1.1% | 1232.50 | 1265.48 | 1166.54 | 1133.57 | 3.0 |
+| 10 | **AXISBANK** | **64.5** | **WAIT** | BEARISH | 46.7 | -4.19% | -1.7% | 1.1% | 1232.50 | 1265.48 | 1166.54 | 1133.56 | 3.0 |
 | 11 | **BHARTIARTL** | **64.2** | **WAIT** | BULLISH | 56.8 | -1.56% | -1.0% | -2.9% | — | — | — | — | — |
 | 12 | **TATASTEEL** | **64.2** | **WAIT** | BEARISH | 39.2 | -0.83% | -6.2% | -5.5% | 173.88 | 175.77 | 170.09 | 168.20 | 3.0 |
 | 13 | **HDFCBANK** | **59.6** | **WAIT** | BEARISH | 47.9 | -2.31% | -2.6% | -4.7% | 707.20 | 718.66 | 684.27 | 672.81 | 3.0 |
@@ -166,7 +166,7 @@ Nifty **22888.95** · Change **-1.11%** · RSI **47.7** · EMA20 **22891.80** ·
 | **KOTAKBANK** | **SHORT WATCH** | 439.10 | 445.52 | 426.27 | 419.85 | 3.0 |
 | **BAJFINANCE** | **SHORT WATCH** | 955.65 | 969.89 | 927.17 | 912.93 | 3.0 |
 | **ITC** | **SHORT WATCH** | 260.50 | 262.71 | 256.09 | 253.88 | 3.0 |
-| **AXISBANK** | **SHORT WATCH** | 1232.50 | 1265.48 | 1166.54 | 1133.57 | 3.0 |
+| **AXISBANK** | **SHORT WATCH** | 1232.50 | 1265.48 | 1166.54 | 1133.56 | 3.0 |
 | **TATASTEEL** | **SHORT WATCH** | 173.88 | 175.77 | 170.09 | 168.20 | 3.0 |
 
 # 🚨 Risk / avoid
