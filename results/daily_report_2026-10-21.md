@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 21 October 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-10-21T12:29:32.466410+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-10-21T14:03:50.664113+00:00
 
 ### Market regime: **RISK-OFF**
 
@@ -16,12 +16,12 @@ Nifty **22811.35** · Change **-0.34%** · RSI **46.3** · EMA20 **22884.14** ·
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 109.06 | 0.25% | Oil/inflation risk |
+| Brent crude | 108.18 | -0.56% | Oil/inflation risk |
 | USD/INR | 94.45 | -0.57% | Rupee pressure |
 | India VIX | 15.68 | 6.13% | Volatility gauge |
 | Nifty Bank | 54976.90 | -0.92% | Banking breadth |
-| S&P 500 | 7712.57 | 0.28% | Global risk cue |
-| Nasdaq | 26424.82 | -0.02% | Global tech cue |
+| S&P 500 | 7732.05 | 0.25% | Global risk cue |
+| Nasdaq | 26630.04 | 0.78% | Global tech cue |
 
 ### 📰 Fresh market headlines
 
@@ -199,9 +199,7 @@ Nifty **22811.35** · Change **-0.34%** · RSI **46.3** · EMA20 **22884.14** ·
 *IPO subscription measures demand, not quality. GMP is unofficial; verify the RHP and official exchange disclosures.*
 
 # 🧠 What changed today?
-- ICICIBANK: WAIT → BUY WATCH
-- HAL: BUY WATCH → BUY-ON-DIPS
-- OIL: WAIT → BUY-ON-DIPS
+- No major rule-based changes detected.
 
 # 🏆 Today's final call
 
