@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 22 October 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-10-22T12:33:04.119481+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-10-22T14:02:07.184244+00:00
 
 ### Market regime: **RISK-OFF**
 
@@ -16,12 +16,12 @@ Nifty **22687.65** · Change **-0.54%** · RSI **44.0** · EMA20 **22865.42** ·
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 111.94 | 2.87% | Oil/inflation risk |
+| Brent crude | 111.69 | 2.64% | Oil/inflation risk |
 | USD/INR | 94.81 | 0.10% | Rupee pressure |
 | India VIX | 15.76 | 0.53% | Volatility gauge |
 | Nifty Bank | 54925.70 | -0.09% | Banking breadth |
-| S&P 500 | 7757.17 | 0.58% | Global risk cue |
-| Nasdaq | 26702.86 | 1.05% | Global tech cue |
+| S&P 500 | 7697.98 | -0.76% | Global risk cue |
+| Nasdaq | 26331.44 | -1.39% | Global tech cue |
 
 ### 📰 Fresh market headlines
 
@@ -199,8 +199,7 @@ Nifty **22687.65** · Change **-0.54%** · RSI **44.0** · EMA20 **22865.42** ·
 *IPO subscription measures demand, not quality. GMP is unofficial; verify the RHP and official exchange disclosures.*
 
 # 🧠 What changed today?
-- INFY: WAIT → BUY WATCH
-- SBIN: WAIT → BUY-ON-DIPS
+- No major rule-based changes detected.
 
 # 🏆 Today's final call
 
