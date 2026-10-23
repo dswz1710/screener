@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 23 October 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-10-23T14:21:59.306995+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-10-23T15:03:52.319801+00:00
 
 ### Market regime: **RISK-OFF**
 
@@ -16,12 +16,12 @@ Nifty **22600.00** · Change **-0.39%** · RSI **42.4** · EMA20 **22840.14** ·
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 111.34 | -1.62% | Oil/inflation risk |
+| Brent crude | 111.37 | -1.59% | Oil/inflation risk |
 | USD/INR | 94.93 | 0.65% | Rupee pressure |
 | India VIX | 16.86 | 6.98% | Volatility gauge |
 | Nifty Bank | 54287.35 | -1.16% | Banking breadth |
-| S&P 500 | 7622.78 | -0.53% | Global risk cue |
-| Nasdaq | 25983.99 | -0.10% | Global tech cue |
+| S&P 500 | 7645.27 | -0.24% | Global risk cue |
+| Nasdaq | 26047.68 | 0.15% | Global tech cue |
 
 - Rupee weakness is elevated; importers and margin-sensitive sectors may face pressure.
 
