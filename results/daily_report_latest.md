@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 23 October 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-10-23T13:44:59.956885+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-10-23T14:21:59.306995+00:00
 
 ### Market regime: **RISK-OFF**
 
@@ -16,14 +16,21 @@ Nifty **22600.00** · Change **-0.39%** · RSI **42.4** · EMA20 **22840.14** ·
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 110.74 | -2.15% | Oil/inflation risk |
+| Brent crude | 111.34 | -1.62% | Oil/inflation risk |
 | USD/INR | 94.93 | 0.65% | Rupee pressure |
 | India VIX | 16.86 | 6.98% | Volatility gauge |
 | Nifty Bank | 54287.35 | -1.16% | Banking breadth |
-| S&P 500 | 7628.02 | -0.46% | Global risk cue |
-| Nasdaq | 25947.85 | -0.23% | Global tech cue |
+| S&P 500 | 7622.78 | -0.53% | Global risk cue |
+| Nasdaq | 25983.99 | -0.10% | Global tech cue |
 
 - Rupee weakness is elevated; importers and margin-sensitive sectors may face pressure.
+
+### 📰 Fresh market headlines
+
+- **Moneycontrol:** Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher
+- **Moneycontrol:** Sensex, Nifty gain for third day in a row; easing volatility to support bull trend
+- **Moneycontrol:** Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years
+- **Moneycontrol:** Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action
 
 # 🎯 Trading opportunities
 
@@ -62,18 +69,18 @@ Nifty **22600.00** · Change **-0.39%** · RSI **42.4** · EMA20 **22840.14** ·
 
 | # | Stock | Score | View | Quality | Valuation | Technical | Risk | 6M RS | P/E | ROE | D/E | Price | SL | Qty |
 |---:|---|---:|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 1 | **ICICIBANK** | **77.6** | **ACCUMULATE** | 81.0 | 81.0 | 85.0 | 50.0 | 9.2% | 18.02 | 16.5% | — | ₹1394.20 | ₹1353.54 | 10 |
+| 1 | **ICICIBANK** | **77.6** | **ACCUMULATE** | 81.0 | 81.0 | 85.0 | 50.0 | 9.2% | 16.96 | 16.5% | — | ₹1394.20 | ₹1353.54 | 10 |
 | 2 | **KOTAKBANK** | **77.2** | **ACCUMULATE** | 73.0 | 74.0 | 93.0 | 42.0 | 21.5% | 21.10 | — | — | ₹430.50 | ₹415.55 | 34 |
 | 3 | **TCS** | **71.6** | **WATCH** | 95.0 | 67.0 | 60.0 | 50.0 | 7.0% | 17.73 | 45.6% | 9.83 | ₹2530.00 | ₹2405.43 | 5 |
 | 4 | **INFY** | **65.4** | **WATCH** | 90.0 | 75.0 | 40.0 | 50.0 | -1.8% | 15.72 | 32.0% | 9.54 | ₹1153.80 | ₹1089.15 | 13 |
 | 5 | **HAL** | **62.9** | **WATCH** | 80.0 | 47.0 | 57.0 | 50.0 | 14.7% | 33.90 | — | 0.16 | ₹4725.00 | ₹4546.66 | 3 |
 | 6 | **OIL** | **62.5** | **WATCH** | 85.0 | 81.0 | 25.0 | 50.0 | 2.6% | 8.72 | — | 58.74 | ₹447.85 | ₹435.76 | 33 |
-| 7 | **BHARTIARTL** | **61.5** | **AVOID** | 88.0 | 47.0 | 45.0 | 50.0 | 10.7% | 39.48 | 20.1% | 100.42 | ₹1892.10 | ₹1819.71 | 7 |
+| 7 | **BHARTIARTL** | **61.5** | **AVOID** | 88.0 | 47.0 | 45.0 | 50.0 | 10.7% | 39.55 | 20.1% | 100.42 | ₹1892.10 | ₹1819.71 | 7 |
 | 8 | **ONGC** | **60.8** | **AVOID** | 77.0 | 81.0 | 40.0 | 50.0 | -12.5% | 6.58 | — | 42.55 | ₹227.50 | ₹221.94 | 65 |
 | 9 | **AXISBANK** | **59.9** | **AVOID** | 81.0 | 81.0 | 25.0 | 50.0 | -4.5% | 12.70 | 13.9% | — | ₹1217.50 | ₹1174.21 | 12 |
 | 10 | **SUNPHARMA** | **59.1** | **AVOID** | 85.0 | 55.0 | 30.0 | 50.0 | 12.0% | 34.68 | — | 5.52 | ₹1748.00 | ₹1698.11 | 8 |
 | 11 | **SBIN** | **58.1** | **AVOID** | 76.0 | 81.0 | 25.0 | 50.0 | -5.8% | 10.27 | 15.2% | — | ₹958.60 | ₹930.88 | 15 |
-| 12 | **ULTRACEMCO** | **57.3** | **AVOID** | 80.0 | 55.0 | 40.0 | 50.0 | -2.1% | 38.09 | 11.5% | 37.69 | ₹11050.00 | ₹10628.82 | 1 |
+| 12 | **ULTRACEMCO** | **57.3** | **AVOID** | 80.0 | 55.0 | 40.0 | 50.0 | -2.1% | 36.95 | 11.5% | 37.69 | ₹11050.00 | ₹10628.82 | 1 |
 | 13 | **HDFCBANK** | **57.2** | **AVOID** | 73.0 | 81.0 | 25.0 | 50.0 | -6.1% | 15.14 | 11.0% | — | ₹692.80 | ₹668.96 | 21 |
 | 14 | **BAJFINANCE** | **53.8** | **AVOID** | 69.0 | 68.0 | 25.0 | 35.0 | 6.7% | 26.21 | 19.0% | 342.42 | ₹928.95 | ₹884.21 | 16 |
 | 15 | **TATASTEEL** | **53.2** | **AVOID** | 65.0 | 81.0 | 25.0 | 50.0 | -14.0% | 18.95 | — | 89.02 | ₹167.67 | ₹161.07 | 89 |
@@ -91,7 +98,7 @@ Nifty **22600.00** · Change **-0.39%** · RSI **42.4** · EMA20 **22840.14** ·
 
 | Metric | Score | Metric | Value |
 |---|---:|---|---:|
-| Quality | 81.0 | P/E | 18.02 |
+| Quality | 81.0 | P/E | 16.96 |
 | Valuation | 81.0 | ROE | 16.5% |
 | Technical | 85.0 | D/E | — |
 | Risk | 50.0 | Rev growth | 15.8% |
