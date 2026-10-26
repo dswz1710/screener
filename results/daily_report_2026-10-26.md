@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 26 October 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-10-26T15:24:52.381444+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-10-26T16:16:58.817730+00:00
 
 ### Market regime: **RISK-OFF**
 
@@ -16,12 +16,19 @@ Nifty **22753.20** · Change **0.68%** · RSI **46.1** · EMA20 **22831.86** · 
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 110.20 | -5.59% | Oil/inflation risk |
+| Brent crude | 111.98 | -4.06% | Oil/inflation risk |
 | USD/INR | 95.18 | 0.49% | Rupee pressure |
 | India VIX | 17.16 | 1.78% | Volatility gauge |
 | Nifty Bank | 54366.70 | 0.15% | Banking breadth |
-| S&P 500 | 7698.07 | 0.98% | Global risk cue |
-| Nasdaq | 26294.25 | 1.31% | Global tech cue |
+| S&P 500 | 7679.47 | 0.73% | Global risk cue |
+| Nasdaq | 26205.29 | 0.96% | Global tech cue |
+
+### 📰 Fresh market headlines
+
+- **Moneycontrol:** Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher
+- **Moneycontrol:** Sensex, Nifty gain for third day in a row; easing volatility to support bull trend
+- **Moneycontrol:** Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years
+- **Moneycontrol:** Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action
 
 # 🎯 Trading opportunities
 
@@ -41,7 +48,7 @@ Nifty **22753.20** · Change **0.68%** · RSI **46.1** · EMA20 **22831.86** · 
 | 12 | **LT** | **66.5** | **WAIT** | BEARISH | 44.1 | 0.90% | -4.6% | -6.4% | 3680.00 | 3638.42 | 3763.17 | 3804.75 | 3.0 |
 | 13 | **ITC** | **66.5** | **WAIT** | BEARISH | 47.1 | 1.01% | -2.8% | -9.0% | 260.50 | 257.80 | 265.89 | 268.59 | 3.0 |
 | 14 | **BAJFINANCE** | **59.8** | **WAIT** | BEARISH | 36.2 | -1.10% | -6.5% | -12.9% | 916.55 | 936.83 | 875.99 | 855.71 | 3.0 |
-| 15 | **IRB** | **59.8** | **WAIT** | BEARISH | 29.7 | 0.12% | -9.1% | -18.6% | 16.22 | 16.70 | 15.27 | 14.79 | 3.0 |
+| 15 | **IRB** | **59.8** | **WAIT** | BEARISH | 29.7 | 0.12% | -9.1% | -18.6% | 16.22 | 16.70 | 15.26 | 14.79 | 3.0 |
 
 ### 📊 Opportunity score map
 
@@ -63,7 +70,7 @@ Nifty **22753.20** · Change **0.68%** · RSI **46.1** · EMA20 **22831.86** · 
 | 1 | **KOTAKBANK** | **79.6** | **ACCUMULATE** | 73.0 | 74.0 | 100.0 | 42.0 | 24.9% | 21.61 | 11.8% | — | ₹440.75 | ₹425.25 | 34 |
 | 2 | **ICICIBANK** | **77.8** | **ACCUMULATE** | 81.0 | 81.0 | 85.0 | 50.0 | 9.9% | 17.23 | 16.5% | — | ₹1403.00 | ₹1362.96 | 10 |
 | 3 | **TCS** | **72.8** | **ACCUMULATE** | 95.0 | 67.0 | 65.0 | 50.0 | 6.4% | 17.77 | 45.6% | 9.83 | ₹2535.00 | ₹2412.48 | 5 |
-| 4 | **BHARTIARTL** | **68.2** | **WATCH** | 88.0 | 47.0 | 72.0 | 50.0 | 10.0% | 40.01 | 20.1% | 100.42 | ₹1917.50 | ₹1844.66 | 7 |
+| 4 | **BHARTIARTL** | **68.2** | **WATCH** | 88.0 | 47.0 | 72.0 | 50.0 | 10.0% | 40.08 | 20.1% | 100.42 | ₹1917.50 | ₹1844.66 | 7 |
 | 5 | **HAL** | **63.1** | **WATCH** | 80.0 | 47.0 | 57.0 | 50.0 | 15.6% | 34.26 | — | 0.16 | ₹4775.00 | ₹4587.45 | 3 |
 | 6 | **INFY** | **62.4** | **WATCH** | 79.0 | 75.0 | 40.0 | 50.0 | -0.1% | 15.53 | 29.9% | 8.57 | ₹1166.00 | ₹1099.55 | 12 |
 | 7 | **OIL** | **62.4** | **WATCH** | 85.0 | 81.0 | 25.0 | 50.0 | 1.9% | 8.86 | — | 58.74 | ₹454.90 | ₹442.28 | 32 |
@@ -71,7 +78,7 @@ Nifty **22753.20** · Change **0.68%** · RSI **46.1** · EMA20 **22831.86** · 
 | 9 | **AXISBANK** | **59.8** | **AVOID** | 81.0 | 81.0 | 25.0 | 50.0 | -5.0% | 12.73 | 13.9% | — | ₹1220.00 | ₹1177.04 | 12 |
 | 10 | **SUNPHARMA** | **58.6** | **AVOID** | 85.0 | 55.0 | 30.0 | 50.0 | 9.4% | 34.52 | — | 5.52 | ₹1740.00 | ₹1689.00 | 8 |
 | 11 | **SBIN** | **58.0** | **AVOID** | 76.0 | 81.0 | 25.0 | 50.0 | -6.3% | 10.30 | 15.2% | — | ₹960.80 | ₹932.78 | 15 |
-| 12 | **ULTRACEMCO** | **57.3** | **AVOID** | 80.0 | 55.0 | 40.0 | 50.0 | -2.2% | 38.53 | 11.5% | 37.69 | ₹11180.00 | ₹10756.46 | 1 |
+| 12 | **ULTRACEMCO** | **57.3** | **AVOID** | 80.0 | 55.0 | 40.0 | 50.0 | -2.2% | 37.39 | 11.5% | 37.69 | ₹11180.00 | ₹10756.46 | 1 |
 | 13 | **HDFCBANK** | **57.1** | **AVOID** | 73.0 | 81.0 | 25.0 | 50.0 | -6.4% | 15.04 | 11.0% | — | ₹688.05 | ₹666.70 | 21 |
 | 14 | **BAJFINANCE** | **54.9** | **AVOID** | 69.0 | 68.0 | 30.0 | 35.0 | 5.9% | 26.38 | 19.0% | 342.42 | ₹918.70 | ₹876.61 | 16 |
 | 15 | **TATASTEEL** | **53.3** | **AVOID** | 65.0 | 81.0 | 25.0 | 50.0 | -13.6% | 19.20 | — | 89.02 | ₹169.94 | ₹163.31 | 88 |
@@ -128,7 +135,7 @@ Nifty **22753.20** · Change **0.68%** · RSI **46.1** · EMA20 **22831.86** · 
 
 | Metric | Score | Metric | Value |
 |---|---:|---|---:|
-| Quality | 88.0 | P/E | 40.01 |
+| Quality | 88.0 | P/E | 40.08 |
 | Valuation | 47.0 | ROE | 20.1% |
 | Technical | 72.0 | D/E | 100.42 |
 | Risk | 50.0 | Rev growth | 18.4% |
@@ -160,7 +167,7 @@ Nifty **22753.20** · Change **0.68%** · RSI **46.1** · EMA20 **22831.86** · 
 | **ONGC** | **LONG WATCH** | 228.44 | 225.44 | 234.44 | 237.43 | 3.0 |
 | **HAL** | **SHORT WATCH** | 4769.80 | 4839.13 | 4631.14 | 4561.81 | 3.0 |
 | **BAJFINANCE** | **SHORT WATCH** | 916.55 | 936.83 | 875.99 | 855.71 | 3.0 |
-| **IRB** | **SHORT WATCH** | 16.22 | 16.70 | 15.27 | 14.79 | 3.0 |
+| **IRB** | **SHORT WATCH** | 16.22 | 16.70 | 15.26 | 14.79 | 3.0 |
 
 # 🚨 Risk / avoid
 
