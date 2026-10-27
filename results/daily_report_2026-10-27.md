@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 27 October 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-10-27T10:46:52.295225+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-10-27T12:47:26.238002+00:00
 
 ### Market regime: **RISK-OFF**
 
@@ -16,8 +16,8 @@ Nifty **22749.75** · Change **-0.02%** · RSI **46.0** · EMA20 **22824.04** ·
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 111.00 | -4.15% | Oil/inflation risk |
-| USD/INR | 95.12 | 0.19% | Rupee pressure |
+| Brent crude | 110.29 | -4.77% | Oil/inflation risk |
+| USD/INR | 95.11 | 0.18% | Rupee pressure |
 | India VIX | 16.40 | -4.41% | Volatility gauge |
 | Nifty Bank | 53974.90 | -0.72% | Banking breadth |
 | S&P 500 | 7676.77 | 0.70% | Global risk cue |
@@ -72,13 +72,13 @@ Nifty **22749.75** · Change **-0.02%** · RSI **46.0** · EMA20 **22824.04** ·
 | 3 | **HAL** | **74.5** | **ACCUMULATE** | 80.0 | 47.0 | 100.0 | 50.0 | 18.6% | 34.83 | — | 0.16 | ₹4855.00 | ₹4668.10 | 3 |
 | 4 | **TCS** | **73.3** | **ACCUMULATE** | 95.0 | 67.0 | 65.0 | 50.0 | 9.0% | 17.50 | 45.6% | 9.83 | ₹2496.90 | ₹2370.39 | 6 |
 | 5 | **OIL** | **72.8** | **ACCUMULATE** | 85.0 | 81.0 | 67.0 | 50.0 | 1.4% | 8.90 | — | 58.74 | ₹457.35 | ₹444.68 | 32 |
-| 6 | **BHARTIARTL** | **67.2** | **WATCH** | 88.0 | 47.0 | 65.0 | 50.0 | 13.8% | 40.82 | 20.1% | 100.42 | ₹1978.80 | ₹1902.84 | 7 |
+| 6 | **BHARTIARTL** | **67.2** | **WATCH** | 88.0 | 47.0 | 65.0 | 50.0 | 13.8% | 41.29 | 20.1% | 100.42 | ₹1978.80 | ₹1902.84 | 7 |
 | 7 | **INFY** | **64.8** | **WATCH** | 79.0 | 75.0 | 45.0 | 50.0 | 5.5% | 15.49 | 29.9% | 8.57 | ₹1163.00 | ₹1094.48 | 12 |
 | 8 | **ONGC** | **60.5** | **AVOID** | 77.0 | 81.0 | 40.0 | 50.0 | -14.5% | 6.64 | — | 42.55 | ₹229.85 | ₹224.28 | 65 |
 | 9 | **AXISBANK** | **59.4** | **AVOID** | 81.0 | 81.0 | 25.0 | 50.0 | -6.9% | 12.58 | 13.9% | — | ₹1205.70 | ₹1163.41 | 12 |
 | 10 | **SUNPHARMA** | **59.3** | **AVOID** | 85.0 | 55.0 | 30.0 | 50.0 | 12.9% | 34.75 | — | 5.52 | ₹1751.20 | ₹1701.09 | 8 |
 | 11 | **SBIN** | **57.4** | **AVOID** | 76.0 | 81.0 | 25.0 | 50.0 | -9.4% | 10.13 | 15.2% | — | ₹945.10 | ₹916.36 | 15 |
-| 12 | **ULTRACEMCO** | **57.3** | **AVOID** | 80.0 | 55.0 | 40.0 | 50.0 | -2.3% | 36.85 | 11.5% | 37.69 | ₹11150.00 | ₹10731.07 | 1 |
+| 12 | **ULTRACEMCO** | **57.3** | **AVOID** | 80.0 | 55.0 | 40.0 | 50.0 | -2.3% | 38.43 | 11.5% | 37.69 | ₹11150.00 | ₹10731.07 | 1 |
 | 13 | **HDFCBANK** | **56.7** | **AVOID** | 73.0 | 81.0 | 25.0 | 50.0 | -8.5% | 14.87 | 11.0% | — | ₹680.20 | ₹659.08 | 22 |
 | 14 | **TATASTEEL** | **53.3** | **AVOID** | 65.0 | 81.0 | 25.0 | 50.0 | -13.6% | 19.37 | — | 89.02 | ₹171.42 | ₹164.70 | 87 |
 | 15 | **BAJFINANCE** | **53.2** | **AVOID** | 69.0 | 68.0 | 25.0 | 35.0 | 3.8% | 26.18 | 19.0% | 342.42 | ₹912.00 | ₹869.88 | 16 |
@@ -199,16 +199,7 @@ Nifty **22749.75** · Change **-0.02%** · RSI **46.0** · EMA20 **22824.04** ·
 *IPO subscription measures demand, not quality. GMP is unofficial; verify the RHP and official exchange disclosures.*
 
 # 🧠 What changed today?
-- BHARTIARTL: BUY-ON-DIPS → BUY WATCH
-- ICICIBANK: WAIT → BUY WATCH
-- KOTAKBANK: WAIT → BUY WATCH
-- HAL: WAIT → BUY WATCH
-- OIL: WAIT → BUY WATCH
-- INFY: WAIT → BUY WATCH
-- TCS: WAIT → BUY WATCH
-- ONGC: WAIT → BUY WATCH
-- ULTRACEMCO: AVOID → BUY-ON-DIPS
-- HDFCBANK: AVOID → WAIT
+- No major rule-based changes detected.
 
 # 🏆 Today's final call
 
