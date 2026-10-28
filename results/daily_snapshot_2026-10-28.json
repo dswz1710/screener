@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T15:22:44.324714+00:00",
+  "generated_at": "2026-10-28T16:14:08.199183+00:00",
   "market": {
     "price": 22698.85,
     "change_pct": -0.22,
@@ -508,8 +508,8 @@
         "intraday_score": 90,
         "trigger": 16.01,
         "stop_loss": 16.22,
-        "target1": 15.58,
-        "target2": 15.37,
+        "target1": 15.59,
+        "target2": 15.38,
         "risk_reward": 3.0
       },
       "catalyst": null,
