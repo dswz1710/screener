@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 30 October 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-10-30T13:40:27.125772+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-10-30T15:15:00.230299+00:00
 
 ### Market regime: **RISK-OFF**
 
@@ -16,12 +16,19 @@ Nifty **23053.10** · Change **0.51%** · RSI **53.5** · EMA20 **22845.81** · 
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 113.03 | -1.61% | Oil/inflation risk |
+| Brent crude | 113.46 | -1.24% | Oil/inflation risk |
 | USD/INR | 94.94 | -0.28% | Rupee pressure |
 | India VIX | 15.30 | 1.21% | Volatility gauge |
 | Nifty Bank | 54686.95 | -0.41% | Banking breadth |
-| S&P 500 | 7628.84 | -1.19% | Global risk cue |
-| Nasdaq | 25604.52 | -2.22% | Global tech cue |
+| S&P 500 | 7610.53 | -1.42% | Global risk cue |
+| Nasdaq | 25582.95 | -2.30% | Global tech cue |
+
+### 📰 Fresh market headlines
+
+- **Moneycontrol:** Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher
+- **Moneycontrol:** Sensex, Nifty gain for third day in a row; easing volatility to support bull trend
+- **Moneycontrol:** Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years
+- **Moneycontrol:** Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action
 
 # 🎯 Trading opportunities
 
@@ -34,8 +41,8 @@ Nifty **23053.10** · Change **0.51%** · RSI **53.5** · EMA20 **22845.81** · 
 | 5 | **BHARTIARTL** | **89.3** | **BUY WATCH** | STRONG BULLISH | 65.4 | 0.08% | 12.3% | 0.2% | 1973.70 | 1952.19 | 2016.72 | 2038.23 | 3.0 |
 | 6 | **TCS** | **87.1** | **BUY WATCH** | STRONG BULLISH | 67.2 | 0.99% | 22.0% | 1.7% | 2527.20 | 2490.09 | 2601.43 | 2638.54 | 3.0 |
 | 7 | **LT** | **84.6** | **BUY WATCH** | BULLISH | 61.5 | 0.90% | 3.0% | -3.0% | 3871.70 | 3789.34 | 4036.42 | 4118.78 | 3.0 |
-| 8 | **OIL** | **80.2** | **BUY WATCH** | MIXED | 48.6 | -0.11% | 1.2% | 0.9% | 454.00 | 447.10 | 467.79 | 474.69 | 3.0 |
-| 9 | **NTPC** | **80.1** | **BUY WATCH** | MIXED | 53.2 | 1.85% | -2.0% | -8.0% | 317.30 | 307.29 | 337.32 | 347.33 | 3.0 |
+| 8 | **OIL** | **80.2** | **BUY WATCH** | MIXED | 48.6 | -0.11% | 1.2% | 0.9% | 454.00 | 447.15 | 467.69 | 474.54 | 3.0 |
+| 9 | **NTPC** | **80.1** | **BUY WATCH** | MIXED | 53.2 | 1.85% | -2.0% | -8.0% | 317.30 | 307.29 | 337.32 | 347.34 | 3.0 |
 | 10 | **ULTRACEMCO** | **76.3** | **BUY-ON-DIPS** | MIXED | 52.2 | -1.16% | 0.8% | -8.3% | 11045.00 | 11175.60 | 10783.80 | 10653.20 | 3.0 |
 | 11 | **SUNPHARMA** | **74.0** | **BUY-ON-DIPS** | MIXED | 47.7 | 0.95% | -2.1% | -9.5% | 1774.40 | 1861.96 | 1599.27 | 1511.71 | 3.0 |
 | 12 | **HDFCBANK** | **66.5** | **WAIT** | BEARISH | 44.1 | 1.39% | -2.2% | -6.6% | 693.40 | 684.94 | 710.32 | 718.77 | 3.0 |
