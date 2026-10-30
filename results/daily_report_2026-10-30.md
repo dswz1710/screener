@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 30 October 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-10-30T11:31:20.140884+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-10-30T13:40:27.125772+00:00
 
 ### Market regime: **RISK-OFF**
 
@@ -16,19 +16,12 @@ Nifty **23053.10** · Change **0.51%** · RSI **53.5** · EMA20 **22845.81** · 
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 113.43 | -1.26% | Oil/inflation risk |
+| Brent crude | 113.03 | -1.61% | Oil/inflation risk |
 | USD/INR | 94.94 | -0.28% | Rupee pressure |
 | India VIX | 15.30 | 1.21% | Volatility gauge |
 | Nifty Bank | 54686.95 | -0.41% | Banking breadth |
-| S&P 500 | 7720.39 | -0.30% | Global risk cue |
-| Nasdaq | 26184.72 | -1.38% | Global tech cue |
-
-### 📰 Fresh market headlines
-
-- **Moneycontrol:** Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher
-- **Moneycontrol:** Sensex, Nifty gain for third day in a row; easing volatility to support bull trend
-- **Moneycontrol:** Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years
-- **Moneycontrol:** Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action
+| S&P 500 | 7628.84 | -1.19% | Global risk cue |
+| Nasdaq | 25604.52 | -2.22% | Global tech cue |
 
 # 🎯 Trading opportunities
 
