@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 2 November 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-11-02T19:42:41.047893+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-11-02T20:21:41.280857+00:00
 
 ### Market regime: **RISK-OFF**
 
@@ -16,12 +16,12 @@ Nifty **23053.10** · Change **0.51%** · RSI **53.5** · EMA20 **22845.81** · 
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 104.79 | -10.92% | Oil/inflation risk |
+| Brent crude | 104.30 | -11.34% | Oil/inflation risk |
 | USD/INR | 94.89 | -0.28% | Rupee pressure |
 | India VIX | 15.30 | 1.19% | Volatility gauge |
 | Nifty Bank | 54686.95 | -0.41% | Banking breadth |
-| S&P 500 | 7561.51 | -0.24% | Global risk cue |
-| Nasdaq | 25268.78 | -0.66% | Global tech cue |
+| S&P 500 | 7574.66 | -0.07% | Global risk cue |
+| Nasdaq | 25333.83 | -0.41% | Global tech cue |
 
 # 🎯 Trading opportunities
 
@@ -37,7 +37,7 @@ Nifty **23053.10** · Change **0.51%** · RSI **53.5** · EMA20 **22845.81** · 
 | 8 | **ULTRACEMCO** | **76.3** | **BUY-ON-DIPS** | MIXED | 52.2 | -1.16% | 0.8% | -8.3% | 11387.00 | 11159.38 | 11842.23 | 12069.85 | 3.0 |
 | 9 | **NTPC** | **73.3** | **BUY-ON-DIPS** | MIXED | 53.2 | 1.85% | -2.0% | -8.0% | 323.95 | 312.19 | 347.47 | 359.23 | 3.0 |
 | 10 | **SUNPHARMA** | **71.7** | **BUY-ON-DIPS** | MIXED | 47.7 | 0.95% | -2.1% | -9.5% | 1750.40 | 1778.85 | 1693.50 | 1665.05 | 3.0 |
-| 11 | **TITAN** | **70.8** | **BUY-ON-DIPS** | BEARISH | 43.4 | 0.06% | -3.3% | -10.1% | 4476.30 | 4409.73 | 4609.45 | 4676.02 | 3.0 |
+| 11 | **TITAN** | **70.8** | **BUY-ON-DIPS** | BEARISH | 43.4 | 0.06% | -3.3% | -10.1% | 4476.30 | 4409.73 | 4609.43 | 4676.00 | 3.0 |
 | 12 | **BAJFINANCE** | **70.8** | **BUY-ON-DIPS** | BEARISH | 43.5 | 0.02% | -2.1% | -18.3% | 959.40 | 932.10 | 1014.00 | 1041.30 | 3.0 |
 | 13 | **ITC** | **67.3** | **WAIT** | MIXED | 53.5 | 0.23% | 1.1% | -8.1% | 266.40 | 261.64 | 275.93 | 280.69 | 3.0 |
 | 14 | **RELIANCE** | **66.5** | **WAIT** | BEARISH | 40.3 | -0.21% | -1.9% | -9.8% | 1300.00 | 1214.86 | 1470.28 | 1555.42 | 3.0 |
