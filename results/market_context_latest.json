@@ -1,58 +1,37 @@
 {
-  "generated_at": "2026-11-02T16:38:35.831985+00:00",
+  "generated_at": "2026-11-02T18:46:17.179850+00:00",
   "quotes": {
     "Brent crude": {
-      "value": 105.2300033569336,
-      "change_pct": -10.549129630314201,
+      "value": 104.38999938964844,
+      "change_pct": -11.263175848984163,
       "asof": "2026-11-02T05:00:00+00:00"
     },
     "USD/INR": {
       "value": 94.88999938964844,
       "change_pct": -0.27576579671844126,
-      "asof": "2026-11-02T15:36:23+00:00"
+      "asof": "2026-11-02T18:38:51+00:00"
     },
     "India VIX": {
-      "value": 15.5,
-      "change_pct": 1.3071882795547163,
+      "value": 15.300000190734863,
+      "change_pct": 1.1904782178450812,
       "asof": "2026-11-02T03:45:00+00:00"
     },
     "Nifty Bank": {
-      "value": 55002.19921875,
-      "change_pct": 0.5764629486625594,
+      "value": 54686.94921875,
+      "change_pct": -0.4055739293313487,
       "asof": "2026-11-02T03:45:00+00:00"
     },
     "S&P 500": {
-      "value": 7622.97998046875,
-      "change_pct": 0.5660918335197884,
+      "value": 7597.419921875,
+      "change_pct": 0.22889100046037392,
       "asof": "2026-11-02T14:30:00+00:00"
     },
     "Nasdaq": {
-      "value": 25610.166015625,
-      "change_pct": 0.6807643024924426,
+      "value": 25454.71875,
+      "change_pct": 0.06965738884301409,
       "asof": "2026-11-02T14:30:00+00:00"
     }
   },
-  "headlines": [
-    {
-      "source": "Moneycontrol",
-      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
-      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html"
-    },
-    {
-      "source": "Moneycontrol",
-      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html"
-    },
-    {
-      "source": "Moneycontrol",
-      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
-      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html"
-    },
-    {
-      "source": "Moneycontrol",
-      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html"
-    }
-  ],
+  "headlines": [],
   "notes": []
 }
