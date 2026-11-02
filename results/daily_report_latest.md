@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 2 November 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-11-02T18:46:00.187421+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-11-02T19:42:41.047893+00:00
 
 ### Market regime: **RISK-OFF**
 
@@ -16,12 +16,12 @@ Nifty **23053.10** · Change **0.51%** · RSI **53.5** · EMA20 **22845.81** · 
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 104.39 | -11.26% | Oil/inflation risk |
+| Brent crude | 104.79 | -10.92% | Oil/inflation risk |
 | USD/INR | 94.89 | -0.28% | Rupee pressure |
 | India VIX | 15.30 | 1.19% | Volatility gauge |
 | Nifty Bank | 54686.95 | -0.41% | Banking breadth |
-| S&P 500 | 7597.42 | 0.23% | Global risk cue |
-| Nasdaq | 25454.72 | 0.07% | Global tech cue |
+| S&P 500 | 7561.51 | -0.24% | Global risk cue |
+| Nasdaq | 25268.78 | -0.66% | Global tech cue |
 
 # 🎯 Trading opportunities
 
@@ -189,12 +189,7 @@ Nifty **23053.10** · Change **0.51%** · RSI **53.5** · EMA20 **22845.81** · 
 *IPO subscription measures demand, not quality. GMP is unofficial; verify the RHP and official exchange disclosures.*
 
 # 🧠 What changed today?
-- Regime: SELECTIVE → RISK-OFF
-- Nifty: 23440.8 → 23053.1
-- RSI: 61.0 → 53.5
-- INFY: BUY-ON-DIPS → BUY WATCH
-- ULTRACEMCO: BUY WATCH → BUY-ON-DIPS
-- NTPC: BUY WATCH → BUY-ON-DIPS
+- No major rule-based changes detected.
 
 # 🏆 Today's final call
 
