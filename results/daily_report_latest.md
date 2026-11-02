@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 2 November 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-11-02T11:16:46.870084+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-11-02T11:42:48.346322+00:00
 
 ### Market regime: **SELECTIVE**
 
@@ -16,7 +16,7 @@ Nifty **23440.80** · Change **1.68%** · RSI **61.0** · EMA20 **22902.48** · 
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 108.60 | -7.68% | Oil/inflation risk |
+| Brent crude | 108.39 | -7.86% | Oil/inflation risk |
 | USD/INR | 94.90 | -0.27% | Rupee pressure |
 | India VIX | 15.50 | 1.31% | Volatility gauge |
 | Nifty Bank | 55002.20 | 0.58% | Banking breadth |
@@ -44,7 +44,7 @@ Nifty **23440.80** · Change **1.68%** · RSI **61.0** · EMA20 **22902.48** · 
 | 8 | **ULTRACEMCO** | **84.6** | **BUY WATCH** | BULLISH | 60.8 | 3.10% | 6.3% | -6.6% | 11387.00 | 11159.38 | 11842.23 | 12069.85 | 3.0 |
 | 9 | **OIL** | **84.2** | **BUY WATCH** | STRONG BULLISH | 54.4 | 1.74% | 4.0% | 4.0% | 463.80 | 455.34 | 480.72 | 489.19 | 3.0 |
 | 10 | **ICICIBANK** | **83.8** | **BUY WATCH** | STRONG BULLISH | 53.6 | -0.76% | 5.9% | -4.3% | 1387.40 | 1368.32 | 1425.55 | 1444.63 | 3.0 |
-| 11 | **TITAN** | **83.0** | **BUY WATCH** | BULLISH | 47.0 | 0.90% | -0.9% | -8.9% | 4476.30 | 4409.73 | 4609.43 | 4676.00 | 3.0 |
+| 11 | **TITAN** | **83.0** | **BUY WATCH** | BULLISH | 47.0 | 0.90% | -0.9% | -8.9% | 4476.30 | 4409.73 | 4609.45 | 4676.02 | 3.0 |
 | 12 | **NTPC** | **81.6** | **BUY WATCH** | BULLISH | 59.6 | 2.13% | 2.5% | -7.7% | 323.95 | 312.19 | 347.47 | 359.23 | 3.0 |
 | 13 | **TATASTEEL** | **80.8** | **BUY WATCH** | MIXED | 53.0 | 5.83% | -0.3% | -8.1% | 177.37 | 171.18 | 189.75 | 195.94 | 3.0 |
 | 14 | **HAL** | **78.1** | **BUY WATCH** | STRONG BULLISH | 52.2 | 0.03% | 5.5% | 4.5% | — | — | — | — | — |
@@ -196,10 +196,7 @@ Nifty **23440.80** · Change **1.68%** · RSI **61.0** · EMA20 **22902.48** · 
 *IPO subscription measures demand, not quality. GMP is unofficial; verify the RHP and official exchange disclosures.*
 
 # 🧠 What changed today?
-- Regime: RISK-OFF → SELECTIVE
-- Nifty: 23053.1 → 23440.8
-- RSI: 53.5 → 61.0
-- ULTRACEMCO: BUY-ON-DIPS → BUY WATCH
+- No major rule-based changes detected.
 
 # 🏆 Today's final call
 

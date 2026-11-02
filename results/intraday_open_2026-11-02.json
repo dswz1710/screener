@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T11:16:46.870084+00:00",
+  "generated_at": "2026-11-02T11:42:48.346322+00:00",
   "mode": "open",
   "market": {
     "price": 23440.8,
@@ -619,8 +619,8 @@
         "intraday_score": 100,
         "trigger": 4476.3,
         "stop_loss": 4409.73,
-        "target1": 4609.43,
-        "target2": 4676.0,
+        "target1": 4609.45,
+        "target2": 4676.02,
         "risk_reward": 3.0
       },
       "catalyst": null,
@@ -1170,7 +1170,7 @@
         "trigger": 2615.4,
         "stop_loss": 2523.09,
         "target1": 2800.02,
-        "target2": 2892.33,
+        "target2": 2892.34,
         "risk_reward": 3.0
       },
       "catalyst": null,
@@ -1214,7 +1214,7 @@
       },
       "intraday": {
         "intraday_price": 1770.0,
-        "vwap": 1778.6,
+        "vwap": 1778.61,
         "intraday_ema20": 1761.12,
         "intraday_ema50": 1761.97,
         "intraday_volume_ratio": 2.92,
@@ -1658,7 +1658,7 @@
       },
       "intraday": {
         "intraday_price": 1770.0,
-        "vwap": 1778.6,
+        "vwap": 1778.61,
         "intraday_ema20": 1761.12,
         "intraday_ema50": 1761.97,
         "intraday_volume_ratio": 2.92,
