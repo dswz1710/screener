@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 3 November 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-11-03T14:42:36.615152+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-11-03T16:27:48.377666+00:00
 
 ### Market regime: **SELECTIVE**
 
@@ -16,18 +16,25 @@ Nifty **23810.85** · Change **1.58%** · RSI **66.6** · EMA20 **22988.99** · 
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 103.69 | -1.03% | Oil/inflation risk |
+| Brent crude | 103.28 | -1.42% | Oil/inflation risk |
 | USD/INR | 94.73 | -0.18% | Rupee pressure |
 | India VIX | 15.72 | 1.44% | Volatility gauge |
 | Nifty Bank | 55540.05 | 0.98% | Banking breadth |
-| S&P 500 | 7561.12 | 0.26% | Global risk cue |
-| Nasdaq | 25354.48 | 0.76% | Global tech cue |
+| S&P 500 | 7579.26 | 0.50% | Global risk cue |
+| Nasdaq | 25387.67 | 0.89% | Global tech cue |
+
+### 📰 Fresh market headlines
+
+- **Moneycontrol:** Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher
+- **Moneycontrol:** Sensex, Nifty gain for third day in a row; easing volatility to support bull trend
+- **Moneycontrol:** Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years
+- **Moneycontrol:** Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action
 
 # 🎯 Trading opportunities
 
 | # | Stock | Score | View | Trend | RSI | 1D | 20D | 60D | Trigger | SL | T1 | T2 | R/R |
 |---:|---|---:|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 1 | **HAL** | **100.0** | **BUY WATCH** | STRONG BULLISH | 58.2 | 2.13% | 6.0% | 0.8% | 4958.60 | 4856.01 | 5163.77 | 5266.36 | 3.0 |
+| 1 | **HAL** | **100.0** | **BUY WATCH** | STRONG BULLISH | 58.2 | 2.13% | 6.0% | 0.8% | 4958.60 | 4856.01 | 5163.78 | 5266.36 | 3.0 |
 | 2 | **KOTAKBANK** | **98.3** | **BUY WATCH** | STRONG BULLISH | 68.9 | 1.37% | 11.7% | 17.9% | 464.65 | 455.77 | 482.41 | 491.29 | 3.0 |
 | 3 | **LT** | **97.2** | **BUY WATCH** | STRONG BULLISH | 66.4 | 0.21% | 5.3% | -2.8% | 3948.20 | 3857.57 | 4129.45 | 4220.08 | 3.0 |
 | 4 | **ULTRACEMCO** | **97.2** | **BUY WATCH** | STRONG BULLISH | 66.7 | 2.75% | 7.8% | -3.1% | 11700.00 | 11303.51 | 12492.98 | 12889.47 | 3.0 |
@@ -39,7 +46,7 @@ Nifty **23810.85** · Change **1.58%** · RSI **66.6** · EMA20 **22988.99** · 
 | 10 | **HDFCBANK** | **89.0** | **BUY WATCH** | BULLISH | 58.4 | 3.64% | 2.9% | -1.2% | 725.70 | 696.50 | 784.09 | 813.29 | 3.0 |
 | 11 | **ITC** | **89.0** | **BUY WATCH** | BULLISH | 62.3 | 2.82% | 1.9% | -4.2% | 273.90 | 264.71 | 292.27 | 301.46 | 3.0 |
 | 12 | **ONGC** | **89.0** | **BUY WATCH** | BULLISH | 56.3 | -1.13% | 3.2% | -2.4% | 232.17 | 228.63 | 239.24 | 242.78 | 3.0 |
-| 13 | **TITAN** | **84.6** | **BUY WATCH** | BULLISH | 53.9 | 1.91% | -0.4% | -8.7% | 4562.00 | 4437.96 | 4810.08 | 4934.13 | 3.0 |
+| 13 | **TITAN** | **84.6** | **BUY WATCH** | BULLISH | 53.9 | 1.91% | -0.4% | -8.7% | 4562.00 | 4437.95 | 4810.10 | 4934.15 | 3.0 |
 | 14 | **AXISBANK** | **76.2** | **BUY-ON-DIPS** | MIXED | 50.0 | 1.96% | 0.9% | -1.9% | 1240.30 | 1218.88 | 1283.15 | 1304.58 | 3.0 |
 | 15 | **INFY** | **75.6** | **BUY-ON-DIPS** | BULLISH | 56.6 | -1.11% | 12.5% | -1.4% | 1148.10 | 1130.22 | 1183.86 | 1201.74 | 3.0 |
 
@@ -153,7 +160,7 @@ Nifty **23810.85** · Change **1.58%** · RSI **66.6** · EMA20 **22988.99** · 
 
 | Stock | Direction | Trigger | Stop | T1 | T2 | R/R |
 |---|---|---:|---:|---:|---:|---:|
-| **HAL** | **LONG WATCH** | 4958.60 | 4856.01 | 5163.77 | 5266.36 | 3.0 |
+| **HAL** | **LONG WATCH** | 4958.60 | 4856.01 | 5163.78 | 5266.36 | 3.0 |
 | **KOTAKBANK** | **LONG WATCH** | 464.65 | 455.77 | 482.41 | 491.29 | 3.0 |
 | **LT** | **LONG WATCH** | 3948.20 | 3857.57 | 4129.45 | 4220.08 | 3.0 |
 | **ULTRACEMCO** | **LONG WATCH** | 11700.00 | 11303.51 | 12492.98 | 12889.47 | 3.0 |
