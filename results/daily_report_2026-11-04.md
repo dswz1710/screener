@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 4 November 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-11-04T12:24:58.390680+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-11-04T13:11:11.909546+00:00
 
 ### Market regime: **SELECTIVE**
 
@@ -16,7 +16,7 @@ Nifty **23960.60** · Change **0.63%** · RSI **68.5** · EMA20 **23081.52** · 
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 102.24 | -1.31% | Oil/inflation risk |
+| Brent crude | 101.67 | -1.86% | Oil/inflation risk |
 | USD/INR | 94.64 | -0.09% | Rupee pressure |
 | India VIX | 15.19 | -3.39% | Volatility gauge |
 | Nifty Bank | 55913.60 | 0.67% | Banking breadth |
@@ -194,10 +194,7 @@ Nifty **23960.60** · Change **0.63%** · RSI **68.5** · EMA20 **23081.52** · 
 *IPO subscription measures demand, not quality. GMP is unofficial; verify the RHP and official exchange disclosures.*
 
 # 🧠 What changed today?
-- BHARTIARTL: BUY WATCH → BUY-ON-DIPS
-- TITAN: BUY WATCH → BUY-ON-DIPS
-- HAL: BUY WATCH → BUY-ON-DIPS
-- ICICIBANK: BUY WATCH → BUY-ON-DIPS
+- No major rule-based changes detected.
 
 # 🏆 Today's final call
 
