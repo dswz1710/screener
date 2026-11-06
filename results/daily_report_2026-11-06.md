@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 6 November 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-11-06T10:58:31.189330+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-11-06T11:33:06.192310+00:00
 
 ### Market regime: **SELECTIVE**
 
@@ -16,8 +16,8 @@ Nifty **25030.35** · Change **2.01%** · RSI **78.6** · EMA20 **23392.51** · 
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 98.12 | -0.17% | Oil/inflation risk |
-| USD/INR | 93.91 | -0.64% | Rupee pressure |
+| Brent crude | 98.51 | 0.22% | Oil/inflation risk |
+| USD/INR | 93.90 | -0.65% | Rupee pressure |
 | India VIX | 17.47 | 12.10% | Volatility gauge |
 | Nifty Bank | 59086.00 | 2.27% | Banking breadth |
 | S&P 500 | 7353.73 | -4.36% | Global risk cue |
@@ -35,19 +35,19 @@ Nifty **25030.35** · Change **2.01%** · RSI **78.6** · EMA20 **23392.51** · 
 | # | Stock | Score | View | Trend | RSI | 1D | 20D | 60D | Trigger | SL | T1 | T2 | R/R |
 |---:|---|---:|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | 1 | **HDFCBANK** | **100.0** | **BUY WATCH** | STRONG BULLISH | 73.9 | 3.72% | 13.9% | 8.1% | 788.25 | 746.00 | 872.75 | 915.01 | 3.0 |
-| 2 | **ICICIBANK** | **100.0** | **BUY WATCH** | STRONG BULLISH | 79.6 | 4.75% | 16.5% | 9.9% | 1571.20 | 1477.38 | 1758.84 | 1852.66 | 3.0 |
-| 3 | **KOTAKBANK** | **100.0** | **BUY WATCH** | STRONG BULLISH | 72.7 | 2.78% | 10.3% | 22.2% | 480.00 | 463.92 | 512.16 | 528.24 | 3.0 |
-| 4 | **BHARTIARTL** | **100.0** | **BUY WATCH** | STRONG BULLISH | 75.4 | 2.45% | 16.8% | 10.0% | 2107.20 | 2054.67 | 2212.26 | 2264.79 | 3.0 |
-| 5 | **LT** | **100.0** | **BUY WATCH** | STRONG BULLISH | 75.1 | 1.67% | 13.6% | 2.0% | 4117.70 | 3994.08 | 4364.94 | 4488.55 | 3.0 |
-| 6 | **ULTRACEMCO** | **100.0** | **BUY WATCH** | STRONG BULLISH | 76.6 | 1.63% | 19.4% | 5.7% | 12450.00 | 11936.88 | 13476.23 | 13989.35 | 3.0 |
-| 7 | **RELIANCE** | **97.2** | **BUY WATCH** | STRONG BULLISH | 68.2 | 0.50% | 12.1% | -0.3% | 1320.00 | 1286.47 | 1387.07 | 1420.60 | 3.0 |
-| 8 | **BAJFINANCE** | **92.8** | **BUY WATCH** | STRONG BULLISH | 71.9 | 1.66% | 13.8% | -0.5% | 1087.75 | 1021.81 | 1219.64 | 1285.58 | 3.0 |
-| 9 | **ASIANPAINT** | **92.8** | **BUY WATCH** | STRONG BULLISH | 68.1 | 0.88% | 10.1% | -6.9% | 2546.00 | 2460.38 | 2717.25 | 2802.87 | 3.0 |
+| 2 | **ICICIBANK** | **100.0** | **BUY WATCH** | STRONG BULLISH | 79.6 | 4.75% | 16.5% | 9.9% | 1571.20 | 1477.56 | 1758.47 | 1852.11 | 3.0 |
+| 3 | **KOTAKBANK** | **100.0** | **BUY WATCH** | STRONG BULLISH | 72.7 | 2.78% | 10.3% | 22.2% | 480.00 | 463.87 | 512.26 | 528.39 | 3.0 |
+| 4 | **BHARTIARTL** | **100.0** | **BUY WATCH** | STRONG BULLISH | 75.4 | 2.45% | 16.8% | 10.0% | 2107.20 | 2054.64 | 2212.32 | 2264.87 | 3.0 |
+| 5 | **LT** | **100.0** | **BUY WATCH** | STRONG BULLISH | 75.1 | 1.67% | 13.6% | 2.0% | 4117.70 | 3992.50 | 4368.10 | 4493.31 | 3.0 |
+| 6 | **ULTRACEMCO** | **100.0** | **BUY WATCH** | STRONG BULLISH | 76.6 | 1.63% | 19.4% | 5.7% | 12450.00 | 11929.51 | 13490.98 | 14011.47 | 3.0 |
+| 7 | **RELIANCE** | **97.2** | **BUY WATCH** | STRONG BULLISH | 68.2 | 0.50% | 12.1% | -0.3% | 1320.00 | 1286.66 | 1386.67 | 1420.01 | 3.0 |
+| 8 | **BAJFINANCE** | **92.8** | **BUY WATCH** | STRONG BULLISH | 71.9 | 1.66% | 13.8% | -0.5% | 1087.75 | 1021.22 | 1220.82 | 1287.35 | 3.0 |
+| 9 | **ASIANPAINT** | **92.8** | **BUY WATCH** | STRONG BULLISH | 68.1 | 0.88% | 10.1% | -6.9% | 2546.00 | 2456.41 | 2725.17 | 2814.76 | 3.0 |
 | 10 | **ITC** | **90.1** | **BUY WATCH** | BULLISH | 68.8 | 1.54% | 11.0% | 1.5% | 283.15 | 275.92 | 297.61 | 304.84 | 3.0 |
 | 11 | **NTPC** | **89.0** | **BUY WATCH** | BULLISH | 58.1 | 2.13% | 4.4% | -4.4% | 323.45 | 318.35 | 333.65 | 338.75 | 3.0 |
-| 12 | **AXISBANK** | **88.8** | **BUY WATCH** | STRONG BULLISH | 68.6 | 3.35% | 6.3% | 7.6% | 1324.00 | 1257.71 | 1456.58 | 1522.87 | 3.0 |
+| 12 | **AXISBANK** | **88.8** | **BUY WATCH** | STRONG BULLISH | 68.6 | 3.35% | 6.3% | 7.6% | 1324.00 | 1257.37 | 1457.25 | 1523.88 | 3.0 |
 | 13 | **HAL** | **88.8** | **BUY WATCH** | STRONG BULLISH | 56.7 | -1.25% | 7.2% | 1.4% | 4980.00 | 4894.80 | 5150.39 | 5235.59 | 3.0 |
-| 14 | **TITAN** | **87.1** | **BUY WATCH** | STRONG BULLISH | 73.9 | 3.42% | 14.7% | -2.5% | 5013.20 | 4801.14 | 5437.32 | 5649.38 | 3.0 |
+| 14 | **TITAN** | **87.1** | **BUY WATCH** | STRONG BULLISH | 73.9 | 3.42% | 14.7% | -2.5% | 5013.20 | 4800.80 | 5438.01 | 5650.41 | 3.0 |
 | 15 | **SBIN** | **86.0** | **BUY WATCH** | STRONG BULLISH | 63.2 | 1.20% | 8.3% | -4.5% | 1019.45 | 991.58 | 1075.18 | 1103.05 | 3.0 |
 
 ### 📊 Opportunity score map
@@ -161,10 +161,10 @@ Nifty **25030.35** · Change **2.01%** · RSI **78.6** · EMA20 **23392.51** · 
 | Stock | Direction | Trigger | Stop | T1 | T2 | R/R |
 |---|---|---:|---:|---:|---:|---:|
 | **HDFCBANK** | **LONG WATCH** | 788.25 | 746.00 | 872.75 | 915.01 | 3.0 |
-| **ICICIBANK** | **LONG WATCH** | 1571.20 | 1477.38 | 1758.84 | 1852.66 | 3.0 |
-| **KOTAKBANK** | **LONG WATCH** | 480.00 | 463.92 | 512.16 | 528.24 | 3.0 |
-| **BHARTIARTL** | **LONG WATCH** | 2107.20 | 2054.67 | 2212.26 | 2264.79 | 3.0 |
-| **LT** | **LONG WATCH** | 4117.70 | 3994.08 | 4364.94 | 4488.55 | 3.0 |
+| **ICICIBANK** | **LONG WATCH** | 1571.20 | 1477.56 | 1758.47 | 1852.11 | 3.0 |
+| **KOTAKBANK** | **LONG WATCH** | 480.00 | 463.87 | 512.26 | 528.39 | 3.0 |
+| **BHARTIARTL** | **LONG WATCH** | 2107.20 | 2054.64 | 2212.32 | 2264.87 | 3.0 |
+| **LT** | **LONG WATCH** | 4117.70 | 3992.50 | 4368.10 | 4493.31 | 3.0 |
 | **TCS** | **SHORT WATCH** | 2489.90 | 2516.42 | 2436.86 | 2410.34 | 3.0 |
 
 # 🚨 Risk / avoid
@@ -195,8 +195,7 @@ Nifty **25030.35** · Change **2.01%** · RSI **78.6** · EMA20 **23392.51** · 
 *IPO subscription measures demand, not quality. GMP is unofficial; verify the RHP and official exchange disclosures.*
 
 # 🧠 What changed today?
-- Nifty: 24536.6 → 25030.35
-- RSI: 74.7 → 78.6
+- No major rule-based changes detected.
 
 # 🏆 Today's final call
 
