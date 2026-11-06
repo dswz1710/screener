@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-11-05T18:01:04.823740+00:00",
+  "generated_at": "2026-11-06T10:58:43.875985+00:00",
   "quotes": {
     "Brent crude": {
-      "value": 97.5,
-      "change_pct": 3.0437509721188416,
-      "asof": "2026-11-05T05:00:00+00:00"
+      "value": 98.12000274658203,
+      "change_pct": -0.17295571000290888,
+      "asof": "2026-11-06T05:00:00+00:00"
     },
     "USD/INR": {
-      "value": 94.46499633789062,
-      "change_pct": -0.2991095319361814,
-      "asof": "2026-11-05T00:00:00+00:00"
+      "value": 93.91000366210938,
+      "change_pct": -0.6405306028911206,
+      "asof": "2026-11-06T00:00:00+00:00"
     },
     "India VIX": {
-      "value": 15.579999923706055,
-      "change_pct": 2.5674809354597317,
-      "asof": "2026-11-05T03:45:00+00:00"
+      "value": 17.46500015258789,
+      "change_pct": 12.098846200978963,
+      "asof": "2026-11-06T03:45:00+00:00"
     },
     "Nifty Bank": {
-      "value": 57773.6484375,
-      "change_pct": 3.3266447215367645,
-      "asof": "2026-11-05T03:45:00+00:00"
+      "value": 59086.0,
+      "change_pct": 2.2715400498199756,
+      "asof": "2026-11-06T03:45:00+00:00"
     },
     "S&P 500": {
-      "value": 7379.66015625,
-      "change_pct": -4.018405854736362,
+      "value": 7353.72998046875,
+      "change_pct": -4.35565981430297,
       "asof": "2026-11-05T14:30:00+00:00"
     },
     "Nasdaq": {
-      "value": 24373.71875,
-      "change_pct": -5.29516639216252,
+      "value": 24315.0,
+      "change_pct": -5.523319900679158,
       "asof": "2026-11-05T14:30:00+00:00"
     }
   },
@@ -54,7 +54,5 @@
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html"
     }
   ],
-  "notes": [
-    "Oil is moving sharply higher; watch inflation, INR and rate-sensitive sectors."
-  ]
+  "notes": []
 }
