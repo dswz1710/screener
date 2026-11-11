@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 11 November 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-11-11T11:28:18.313921+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-11-11T12:02:40.108041+00:00
 
 ### Market regime: **SELECTIVE**
 
@@ -16,12 +16,19 @@ Nifty **25255.05** · Change **0.84%** · RSI **80.1** · EMA20 **23712.25** · 
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 92.89 | 1.53% | Oil/inflation risk |
+| Brent crude | 92.71 | 1.33% | Oil/inflation risk |
 | USD/INR | 93.68 | -0.28% | Rupee pressure |
 | India VIX | 17.56 | 0.77% | Volatility gauge |
 | Nifty Bank | 60792.40 | 1.76% | Banking breadth |
 | S&P 500 | 7520.93 | -0.38% | Global risk cue |
 | Nasdaq | 25065.87 | -0.74% | Global tech cue |
+
+### 📰 Fresh market headlines
+
+- **Moneycontrol:** Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher
+- **Moneycontrol:** Sensex, Nifty gain for third day in a row; easing volatility to support bull trend
+- **Moneycontrol:** Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years
+- **Moneycontrol:** Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action
 
 # 🎯 Trading opportunities
 
