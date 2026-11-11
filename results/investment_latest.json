@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T16:34:05.374783+05:30",
+  "generated_at": "2026-11-11T16:58:28.351842+05:30",
   "capital": 100000.0,
   "risk_per_position_pct": 1.0,
   "max_position_pct": 15.0,
@@ -864,7 +864,7 @@
       "ret1y_pct": null,
       "from_52w_high_pct": -21.09,
       "pe": 10.668842,
-      "forward_pe": 11.5679245,
+      "forward_pe": 11.603477,
       "pb": 1.485243,
       "roe_pct": 14.46,
       "debt_to_equity": 126.0,
