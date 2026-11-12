@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 12 November 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-11-12T11:21:31.198019+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-11-12T11:53:11.190931+00:00
 
 ### Market regime: **SELECTIVE**
 
@@ -16,7 +16,7 @@ Nifty **25299.35** · Change **0.18%** · RSI **80.5** · EMA20 **23863.40** · 
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 91.99 | -0.83% | Oil/inflation risk |
+| Brent crude | 92.24 | -0.56% | Oil/inflation risk |
 | USD/INR | 94.04 | 0.12% | Rupee pressure |
 | India VIX | 16.62 | -5.37% | Volatility gauge |
 | Nifty Bank | 61518.50 | 1.19% | Banking breadth |
@@ -199,8 +199,7 @@ Nifty **25299.35** · Change **0.18%** · RSI **80.5** · EMA20 **23863.40** · 
 *IPO subscription measures demand, not quality. GMP is unofficial; verify the RHP and official exchange disclosures.*
 
 # 🧠 What changed today?
-- Nifty: 25255.05 → 25299.35
-- RSI: 80.1 → 80.5
+- No major rule-based changes detected.
 
 # 🏆 Today's final call
 
