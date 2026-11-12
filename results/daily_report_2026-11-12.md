@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 12 November 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-11-12T17:00:46.567796+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-11-12T17:42:29.886957+00:00
 
 ### Market regime: **SELECTIVE**
 
@@ -16,12 +16,12 @@ Nifty **25299.35** · Change **0.18%** · RSI **80.5** · EMA20 **23863.40** · 
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 94.01 | 1.35% | Oil/inflation risk |
+| Brent crude | 94.53 | 1.91% | Oil/inflation risk |
 | USD/INR | 94.03 | 0.11% | Rupee pressure |
 | India VIX | 16.62 | -5.37% | Volatility gauge |
 | Nifty Bank | 61518.50 | 1.19% | Banking breadth |
-| S&P 500 | 7635.88 | 0.22% | Global risk cue |
-| Nasdaq | 25506.48 | 0.16% | Global tech cue |
+| S&P 500 | 7635.03 | 0.21% | Global risk cue |
+| Nasdaq | 25498.39 | 0.13% | Global tech cue |
 
 ### 📰 Fresh market headlines
 
@@ -71,7 +71,7 @@ Nifty **25299.35** · Change **0.18%** · RSI **80.5** · EMA20 **23863.40** · 
 | 2 | **KOTAKBANK** | **75.3** | **ACCUMULATE** | 73.0 | 74.0 | 85.0 | 42.0 | 22.2% | 22.72 | 11.8% | — | ₹490.40 | ₹473.76 | 30 |
 | 3 | **BHARTIARTL** | **73.6** | **ACCUMULATE** | 88.0 | 47.0 | 96.0 | 42.0 | 11.1% | 41.27 | 21.4% | 100.02 | ₹2096.00 | ₹2023.78 | 7 |
 | 4 | **SBIN** | **72.0** | **ACCUMULATE** | 76.0 | 81.0 | 73.0 | 50.0 | 3.3% | 11.09 | 14.7% | — | ₹1086.50 | ₹1048.70 | 13 |
-| 5 | **AXISBANK** | **70.5** | **WATCH** | 81.0 | 81.0 | 65.0 | 50.0 | -1.6% | 14.01 | 13.9% | — | ₹1342.90 | ₹1299.85 | 11 |
+| 5 | **AXISBANK** | **70.5** | **WATCH** | 81.0 | 81.0 | 65.0 | 50.0 | -1.6% | 14.29 | 13.9% | — | ₹1342.90 | ₹1299.85 | 11 |
 | 6 | **BAJFINANCE** | **70.0** | **WATCH** | 69.0 | 55.0 | 96.0 | 35.0 | 15.1% | 32.06 | 19.0% | 342.42 | ₹1115.00 | ₹1067.72 | 13 |
 | 7 | **SUNPHARMA** | **66.9** | **WATCH** | 77.0 | 55.0 | 85.0 | 50.0 | -6.1% | 41.25 | 13.1% | 3.62 | ₹1885.00 | ₹1812.94 | 7 |
 | 8 | **TCS** | **66.1** | **WATCH** | 95.0 | 67.0 | 45.0 | 50.0 | -2.0% | 17.12 | 45.6% | 9.83 | ₹2442.40 | ₹2340.94 | 6 |
@@ -148,7 +148,7 @@ Nifty **25299.35** · Change **0.18%** · RSI **80.5** · EMA20 **23863.40** · 
 
 | Metric | Score | Metric | Value |
 |---|---:|---|---:|
-| Quality | 81.0 | P/E | 14.01 |
+| Quality | 81.0 | P/E | 14.29 |
 | Valuation | 81.0 | ROE | 13.9% |
 | Technical | 65.0 | D/E | — |
 | Risk | 50.0 | Rev growth | 21.1% |
