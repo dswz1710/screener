@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-11-12T18:19:20.079886+00:00",
+  "generated_at": "2026-11-13T11:05:26.532223+00:00",
   "quotes": {
     "Brent crude": {
-      "value": 95.12999725341797,
-      "change_pct": 2.5549752723235564,
-      "asof": "2026-11-12T05:00:00+00:00"
+      "value": 95.7300033569336,
+      "change_pct": -0.0939222898948544,
+      "asof": "2026-11-13T05:00:00+00:00"
     },
     "USD/INR": {
-      "value": 94.03299713134766,
-      "change_pct": 0.1149790535863282,
-      "asof": "2026-11-12T00:00:00+00:00"
+      "value": 94.2300033569336,
+      "change_pct": 0.567353272312876,
+      "asof": "2026-11-13T00:00:00+00:00"
     },
     "India VIX": {
-      "value": 16.61750030517578,
-      "change_pct": -5.367307456897019,
-      "asof": "2026-11-12T03:45:00+00:00"
+      "value": 15.494999885559082,
+      "change_pct": -6.768958464903463,
+      "asof": "2026-11-13T03:45:00+00:00"
     },
     "Nifty Bank": {
-      "value": 61518.5,
-      "change_pct": 1.194395321063868,
-      "asof": "2026-11-12T03:45:00+00:00"
+      "value": 61034.1015625,
+      "change_pct": -0.7874028747449913,
+      "asof": "2026-11-13T03:45:00+00:00"
     },
     "S&P 500": {
-      "value": 7628.25,
-      "change_pct": 0.11641521126291021,
+      "value": 7592.39990234375,
+      "change_pct": -0.3540968016256807,
       "asof": "2026-11-12T14:30:00+00:00"
     },
     "Nasdaq": {
-      "value": 25475.2265625,
-      "change_pct": 0.03548669655362158,
+      "value": 25366.08984375,
+      "change_pct": -0.3930686589733057,
       "asof": "2026-11-12T14:30:00+00:00"
     }
   },
@@ -54,5 +54,7 @@
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html"
     }
   ],
-  "notes": []
+  "notes": [
+    "Rupee weakness is elevated; importers and margin-sensitive sectors may face pressure."
+  ]
 }
