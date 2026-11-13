@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 13 November 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-11-13T13:19:34.061803+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-11-13T14:57:15.086692+00:00
 
 ### Market regime: **SELECTIVE**
 
@@ -16,12 +16,12 @@ Nifty **25144.30** · Change **-0.61%** · RSI **76.0** · EMA20 **23985.39** ·
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 96.11 | 0.30% | Oil/inflation risk |
-| USD/INR | 94.22 | 0.56% | Rupee pressure |
+| Brent crude | 96.85 | 1.07% | Oil/inflation risk |
+| USD/INR | 94.23 | 0.57% | Rupee pressure |
 | India VIX | 15.49 | -6.77% | Volatility gauge |
 | Nifty Bank | 61034.10 | -0.79% | Banking breadth |
-| S&P 500 | 7592.40 | -0.35% | Global risk cue |
-| Nasdaq | 25366.09 | -0.39% | Global tech cue |
+| S&P 500 | 7562.02 | -0.40% | Global risk cue |
+| Nasdaq | 25191.45 | -0.69% | Global tech cue |
 
 - Rupee weakness is elevated; importers and margin-sensitive sectors may face pressure.
 
@@ -80,7 +80,7 @@ Nifty **25144.30** · Change **-0.61%** · RSI **76.0** · EMA20 **23985.39** ·
 | 9 | **TCS** | **66.2** | **WATCH** | 95.0 | 67.0 | 45.0 | 50.0 | -1.5% | 16.88 | 45.6% | 9.83 | ₹2407.50 | ₹2313.33 | 6 |
 | 10 | **TITAN** | **65.4** | **WATCH** | 68.0 | 37.0 | 100.0 | 35.0 | 11.0% | 61.15 | 45.3% | 218.56 | ₹4844.90 | ₹4652.84 | 3 |
 | 11 | **HAL** | **65.3** | **WATCH** | 100.0 | 47.0 | 57.0 | 50.0 | -3.3% | 33.55 | 23.6% | 0.02 | ₹4809.80 | ₹4594.31 | 3 |
-| 12 | **ULTRACEMCO** | **65.2** | **WATCH** | 80.0 | 55.0 | 72.0 | 50.0 | -2.9% | 40.38 | 11.5% | 37.69 | ₹12100.00 | ₹11695.00 | 1 |
+| 12 | **ULTRACEMCO** | **65.2** | **WATCH** | 80.0 | 55.0 | 72.0 | 50.0 | -2.9% | 40.46 | 11.5% | 37.69 | ₹12100.00 | ₹11695.00 | 1 |
 | 13 | **RELIANCE** | **64.8** | **WATCH** | 77.0 | 74.0 | 60.0 | 50.0 | -8.8% | 22.08 | 8.8% | 44.33 | ₹1339.70 | ₹1290.07 | 11 |
 | 14 | **LT** | **63.1** | **WATCH** | 78.0 | 55.0 | 65.0 | 50.0 | -1.6% | 31.92 | 17.9% | 105.29 | ₹4143.80 | ₹4010.02 | 3 |
 | 15 | **INFY** | **62.5** | **WATCH** | 79.0 | 75.0 | 45.0 | 50.0 | -5.8% | 15.20 | 29.9% | 8.57 | ₹1141.50 | ₹1086.53 | 13 |
