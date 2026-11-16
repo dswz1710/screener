@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 16 November 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-11-16T11:29:08.818457+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-11-16T12:04:36.152632+00:00
 
 ### Market regime: **SELECTIVE**
 
@@ -16,7 +16,7 @@ Nifty **25291.10** · Change **0.58%** · RSI **77.3** · EMA20 **24109.75** · 
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 95.18 | -0.69% | Oil/inflation risk |
+| Brent crude | 94.81 | -1.07% | Oil/inflation risk |
 | USD/INR | 93.92 | -0.12% | Rupee pressure |
 | India VIX | 15.68 | 1.15% | Volatility gauge |
 | Nifty Bank | 61575.90 | 0.89% | Banking breadth |
@@ -77,7 +77,7 @@ Nifty **25291.10** · Change **0.58%** · RSI **77.3** · EMA20 **24109.75** · 
 | 8 | **TCS** | **66.6** | **WATCH** | 95.0 | 67.0 | 45.0 | 50.0 | 0.3% | 16.86 | 45.6% | 9.83 | ₹2405.00 | ₹2310.41 | 6 |
 | 9 | **HDFCBANK** | **65.5** | **WATCH** | 73.0 | 81.0 | 54.0 | 50.0 | -0.7% | 17.85 | 11.0% | — | ₹816.50 | ₹789.20 | 18 |
 | 10 | **TITAN** | **65.5** | **WATCH** | 68.0 | 37.0 | 100.0 | 35.0 | 12.0% | 61.97 | 45.3% | 218.56 | ₹4910.00 | ₹4719.26 | 3 |
-| 11 | **ULTRACEMCO** | **65.4** | **WATCH** | 80.0 | 55.0 | 72.0 | 50.0 | -1.8% | 41.84 | 11.5% | 37.69 | ₹12270.00 | ₹11868.96 | 1 |
+| 11 | **ULTRACEMCO** | **65.4** | **WATCH** | 80.0 | 55.0 | 72.0 | 50.0 | -1.8% | 41.03 | 11.5% | 37.69 | ₹12270.00 | ₹11868.96 | 1 |
 | 12 | **HAL** | **65.4** | **WATCH** | 100.0 | 47.0 | 57.0 | 50.0 | -2.8% | 33.41 | 23.6% | 0.02 | ₹4789.00 | ₹4584.11 | 3 |
 | 13 | **RELIANCE** | **65.0** | **WATCH** | 77.0 | 74.0 | 60.0 | 50.0 | -8.0% | 22.16 | 8.8% | 44.33 | ₹1344.80 | ₹1296.93 | 11 |
 | 14 | **INFY** | **63.3** | **WATCH** | 79.0 | 75.0 | 45.0 | 50.0 | -2.2% | 15.25 | 29.9% | 8.57 | ₹1145.10 | ₹1094.13 | 13 |
@@ -199,8 +199,7 @@ Nifty **25291.10** · Change **0.58%** · RSI **77.3** · EMA20 **24109.75** · 
 *IPO subscription measures demand, not quality. GMP is unofficial; verify the RHP and official exchange disclosures.*
 
 # 🧠 What changed today?
-- Nifty: 25144.3 → 25291.1
-- RSI: 76.0 → 77.3
+- No major rule-based changes detected.
 
 # 🏆 Today's final call
 
