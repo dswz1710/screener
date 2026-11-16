@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 16 November 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-11-16T18:50:05.075655+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-11-16T19:47:01.186129+00:00
 
 ### Market regime: **SELECTIVE**
 
@@ -16,12 +16,12 @@ Nifty **25144.30** · Change **-0.61%** · RSI **76.0** · EMA20 **23985.39** ·
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 92.58 | -3.40% | Oil/inflation risk |
-| USD/INR | 93.91 | -0.13% | Rupee pressure |
+| Brent crude | 92.41 | -3.58% | Oil/inflation risk |
+| USD/INR | 93.92 | -0.12% | Rupee pressure |
 | India VIX | 15.50 | -6.74% | Volatility gauge |
 | Nifty Bank | 61034.10 | -0.79% | Banking breadth |
-| S&P 500 | 7434.49 | -1.68% | Global risk cue |
-| Nasdaq | 24579.44 | -2.22% | Global tech cue |
+| S&P 500 | 7400.69 | -2.13% | Global risk cue |
+| Nasdaq | 24468.91 | -2.65% | Global tech cue |
 
 # 🎯 Trading opportunities
 
@@ -71,7 +71,7 @@ Nifty **25144.30** · Change **-0.61%** · RSI **76.0** · EMA20 **23985.39** ·
 | 9 | **TCS** | **66.2** | **WATCH** | 95.0 | 67.0 | 45.0 | 50.0 | -1.5% | 16.86 | 45.6% | 9.83 | ₹2407.50 | ₹2313.33 | 6 |
 | 10 | **TITAN** | **65.4** | **WATCH** | 68.0 | 37.0 | 100.0 | 35.0 | 11.0% | 61.97 | 45.3% | 218.56 | ₹4844.90 | ₹4652.84 | 3 |
 | 11 | **HAL** | **65.3** | **WATCH** | 100.0 | 47.0 | 57.0 | 50.0 | -3.3% | 33.41 | 23.6% | 0.02 | ₹4809.80 | ₹4594.31 | 3 |
-| 12 | **ULTRACEMCO** | **65.2** | **WATCH** | 80.0 | 55.0 | 72.0 | 50.0 | -2.9% | 41.03 | 11.5% | 37.69 | ₹12100.00 | ₹11695.00 | 1 |
+| 12 | **ULTRACEMCO** | **65.2** | **WATCH** | 80.0 | 55.0 | 72.0 | 50.0 | -2.9% | 41.84 | 11.5% | 37.69 | ₹12100.00 | ₹11695.00 | 1 |
 | 13 | **RELIANCE** | **64.8** | **WATCH** | 77.0 | 74.0 | 60.0 | 50.0 | -8.8% | 22.16 | 8.8% | 44.33 | ₹1339.70 | ₹1290.07 | 11 |
 | 14 | **TATASTEEL** | **63.5** | **WATCH** | 70.0 | 81.0 | 67.0 | 50.0 | -22.4% | 19.60 | 11.7% | 96.86 | ₹186.68 | ₹179.38 | 80 |
 | 15 | **LT** | **63.1** | **WATCH** | 78.0 | 55.0 | 65.0 | 50.0 | -1.6% | 31.89 | 17.9% | 105.29 | ₹4143.80 | ₹4010.02 | 3 |
@@ -192,8 +192,7 @@ Nifty **25144.30** · Change **-0.61%** · RSI **76.0** · EMA20 **23985.39** ·
 *IPO subscription measures demand, not quality. GMP is unofficial; verify the RHP and official exchange disclosures.*
 
 # 🧠 What changed today?
-- Nifty: 25291.1 → 25144.3
-- RSI: 77.3 → 76.0
+- No major rule-based changes detected.
 
 # 🏆 Today's final call
 
