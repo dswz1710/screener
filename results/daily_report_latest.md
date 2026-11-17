@@ -1,12 +1,12 @@
-## 🇮🇳 Market Pulse — 16 November 2026
+## 🇮🇳 Market Pulse — 17 November 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-11-16T20:28:46.396175+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-11-17T11:57:14.545851+00:00
 
 ### Market regime: **SELECTIVE**
 
-Nifty **25144.30** · Change **-0.61%** · RSI **76.0** · EMA20 **23985.39** · EMA50 **23618.29** · EMA200 **24084.57**.
+Nifty **25387.40** · Change **0.38%** · RSI **78.1** · EMA20 **24231.43** · EMA50 **23750.69** · EMA200 **24109.42**.
 
-**Support:** 23618.29 · **Major support:** 24084.57 · **Recovery:** 23985.39.
+**Support:** 23750.69 · **Major support:** 24109.42 · **Recovery:** 24231.43.
 
 ### Market verdict
 🟨 Stay selective; trade only when setup and risk agree.
@@ -16,70 +16,77 @@ Nifty **25144.30** · Change **-0.61%** · RSI **76.0** · EMA20 **23985.39** ·
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 92.29 | -3.70% | Oil/inflation risk |
-| USD/INR | 93.91 | -0.13% | Rupee pressure |
-| India VIX | 15.50 | -6.74% | Volatility gauge |
-| Nifty Bank | 61034.10 | -0.79% | Banking breadth |
-| S&P 500 | 7412.20 | -1.98% | Global risk cue |
-| Nasdaq | 24506.89 | -2.50% | Global tech cue |
+| Brent crude | 92.75 | 0.34% | Oil/inflation risk |
+| USD/INR | 93.46 | -0.83% | Rupee pressure |
+| India VIX | 15.52 | -1.02% | Volatility gauge |
+| Nifty Bank | 62273.25 | 1.13% | Banking breadth |
+| S&P 500 | 7416.59 | -1.92% | Global risk cue |
+| Nasdaq | 24509.76 | -2.49% | Global tech cue |
+
+### 📰 Fresh market headlines
+
+- **Moneycontrol:** Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher
+- **Moneycontrol:** Sensex, Nifty gain for third day in a row; easing volatility to support bull trend
+- **Moneycontrol:** Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years
+- **Moneycontrol:** Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action
 
 # 🎯 Trading opportunities
 
 | # | Stock | Score | View | Trend | RSI | 1D | 20D | 60D | Trigger | SL | T1 | T2 | R/R |
 |---:|---|---:|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 1 | **BAJFINANCE** | **100.0** | **BUY WATCH** | STRONG BULLISH | 72.0 | 0.18% | 16.7% | 2.5% | 1110.00 | 1093.97 | 1142.06 | 1158.08 | 3.0 |
-| 2 | **RELIANCE** | **98.3** | **BUY WATCH** | STRONG BULLISH | 70.8 | 0.00% | 14.1% | 1.8% | 1345.10 | 1327.63 | 1380.04 | 1397.51 | 3.0 |
-| 3 | **BHARTIARTL** | **98.3** | **BUY WATCH** | STRONG BULLISH | 69.8 | 0.48% | 17.4% | 6.9% | 2156.30 | 2106.34 | 2256.22 | 2306.17 | 3.0 |
-| 4 | **HDFCBANK** | **95.6** | **BUY WATCH** | STRONG BULLISH | 73.4 | -1.02% | 13.1% | 10.3% | 816.50 | 805.32 | 838.86 | 850.04 | 3.0 |
-| 5 | **ULTRACEMCO** | **91.6** | **BUY WATCH** | STRONG BULLISH | 63.6 | -1.92% | 12.1% | 3.6% | 12292.00 | 12165.86 | 12544.27 | 12670.41 | 3.0 |
-| 6 | **AXISBANK** | **89.3** | **BUY WATCH** | STRONG BULLISH | 65.9 | -0.89% | 5.2% | 8.4% | 1342.40 | 1326.63 | 1373.93 | 1389.70 | 3.0 |
-| 7 | **LT** | **87.1** | **BUY WATCH** | STRONG BULLISH | 70.2 | -0.37% | 13.8% | 1.4% | 4118.60 | 4172.40 | 4010.99 | 3957.19 | 3.0 |
-| 8 | **TATASTEEL** | **87.1** | **BUY WATCH** | STRONG BULLISH | 61.2 | -0.70% | 7.0% | 0.4% | 181.37 | 186.76 | 170.59 | 165.19 | 3.0 |
-| 9 | **ICICIBANK** | **86.6** | **BUY WATCH** | STRONG BULLISH | 75.8 | -0.40% | 18.3% | 11.9% | 1585.00 | 1569.61 | 1615.78 | 1631.16 | 3.0 |
-| 10 | **KOTAKBANK** | **86.6** | **BUY WATCH** | STRONG BULLISH | 74.0 | -0.38% | 11.5% | 24.4% | 494.40 | 486.44 | 510.33 | 518.29 | 3.0 |
-| 11 | **SUNPHARMA** | **81.6** | **BUY WATCH** | STRONG BULLISH | 65.3 | -0.27% | 7.7% | -0.1% | 1858.90 | 1895.67 | 1785.36 | 1748.58 | 3.0 |
-| 12 | **IRB** | **80.1** | **BUY WATCH** | BULLISH | 64.3 | -1.26% | 5.7% | -2.0% | 18.06 | 18.44 | 17.30 | 16.92 | 3.0 |
-| 13 | **SBIN** | **79.8** | **BUY WATCH** | STRONG BULLISH | 72.3 | -0.60% | 13.1% | 1.8% | — | — | — | — | — |
-| 14 | **TITAN** | **79.3** | **BUY WATCH** | STRONG BULLISH | 60.8 | -1.56% | 9.0% | -4.4% | 4942.77 | 4848.14 | 5132.03 | 5226.66 | 3.0 |
-| 15 | **INFY** | **78.8** | **BUY WATCH** | BULLISH | 52.6 | -0.84% | 4.9% | 0.1% | 1138.20 | 1150.83 | 1112.95 | 1100.32 | 3.0 |
+| 1 | **SBIN** | **100.0** | **BUY WATCH** | STRONG BULLISH | 76.3 | 1.66% | 15.2% | 5.7% | 1110.00 | 1083.54 | 1162.93 | 1189.39 | 3.0 |
+| 2 | **LT** | **98.3** | **BUY WATCH** | STRONG BULLISH | 70.6 | 0.37% | 14.6% | 2.8% | 4155.50 | 4225.22 | 4016.06 | 3946.34 | 3.0 |
+| 3 | **SUNPHARMA** | **92.8** | **BUY WATCH** | STRONG BULLISH | 62.0 | 0.13% | 6.3% | -1.6% | 1870.00 | 1888.39 | 1833.21 | 1814.82 | 3.0 |
+| 4 | **KOTAKBANK** | **91.1** | **BUY WATCH** | STRONG BULLISH | 77.0 | 0.62% | 11.1% | 27.4% | 499.90 | 490.17 | 519.35 | 529.08 | 3.0 |
+| 5 | **AXISBANK** | **88.8** | **BUY WATCH** | STRONG BULLISH | 71.4 | 1.98% | 6.1% | 10.8% | 1374.00 | 1345.90 | 1430.20 | 1458.29 | 3.0 |
+| 6 | **BAJFINANCE** | **87.1** | **BUY WATCH** | STRONG BULLISH | 71.3 | 1.00% | 14.2% | 3.8% | 1125.10 | 1102.40 | 1170.50 | 1193.20 | 3.0 |
+| 7 | **BHARTIARTL** | **84.8** | **BUY WATCH** | STRONG BULLISH | 70.5 | -0.71% | 12.2% | 11.2% | 2122.70 | 2169.79 | 2028.51 | 1981.41 | 3.0 |
+| 8 | **ULTRACEMCO** | **84.8** | **BUY WATCH** | STRONG BULLISH | 66.7 | 0.16% | 12.7% | 7.3% | 12269.00 | 12386.62 | 12033.75 | 11916.13 | 3.0 |
+| 9 | **MARUTI** | **84.6** | **BUY WATCH** | BULLISH | 59.7 | 0.43% | 9.9% | -7.8% | 12623.00 | 12923.02 | 12022.96 | 11722.94 | 3.0 |
+| 10 | **TATASTEEL** | **84.6** | **BUY WATCH** | BULLISH | 52.5 | -0.42% | 3.4% | -1.4% | 181.50 | 186.19 | 172.12 | 167.43 | 3.0 |
+| 11 | **ADANIENT** | **84.5** | **BUY WATCH** | BULLISH | 54.2 | 3.24% | 2.0% | -8.2% | 2755.90 | 2680.43 | 2906.84 | 2982.31 | 3.0 |
+| 12 | **RELIANCE** | **84.3** | **BUY WATCH** | STRONG BULLISH | 74.7 | 1.65% | 12.9% | 4.3% | 1374.00 | 1342.52 | 1436.96 | 1468.44 | 3.0 |
+| 13 | **ICICIBANK** | **84.3** | **BUY WATCH** | STRONG BULLISH | 77.2 | 0.86% | 14.4% | 14.0% | 1611.30 | 1587.27 | 1659.35 | 1683.38 | 3.0 |
+| 14 | **HDFCBANK** | **82.1** | **BUY WATCH** | STRONG BULLISH | 74.8 | -0.19% | 11.8% | 13.2% | 818.10 | 808.49 | 837.33 | 846.94 | 3.0 |
+| 15 | **TITAN** | **81.6** | **BUY WATCH** | STRONG BULLISH | 63.6 | -0.04% | 10.4% | -3.2% | 4886.00 | 4941.38 | 4775.23 | 4719.85 | 3.0 |
 
 ### 📊 Opportunity score map
 
-- **BAJFINANCE** `████████████` **100.0/100** — BUY WATCH
-- **RELIANCE** `████████████` **98.3/100** — BUY WATCH
-- **BHARTIARTL** `████████████` **98.3/100** — BUY WATCH
-- **HDFCBANK** `███████████░` **95.6/100** — BUY WATCH
-- **ULTRACEMCO** `███████████░` **91.6/100** — BUY WATCH
-- **AXISBANK** `███████████░` **89.3/100** — BUY WATCH
-- **LT** `██████████░░` **87.1/100** — BUY WATCH
-- **TATASTEEL** `██████████░░` **87.1/100** — BUY WATCH
-- **ICICIBANK** `██████████░░` **86.6/100** — BUY WATCH
-- **KOTAKBANK** `██████████░░` **86.6/100** — BUY WATCH
+- **SBIN** `████████████` **100.0/100** — BUY WATCH
+- **LT** `████████████` **98.3/100** — BUY WATCH
+- **SUNPHARMA** `███████████░` **92.8/100** — BUY WATCH
+- **KOTAKBANK** `███████████░` **91.1/100** — BUY WATCH
+- **AXISBANK** `███████████░` **88.8/100** — BUY WATCH
+- **BAJFINANCE** `██████████░░` **87.1/100** — BUY WATCH
+- **BHARTIARTL** `██████████░░` **84.8/100** — BUY WATCH
+- **ULTRACEMCO** `██████████░░` **84.8/100** — BUY WATCH
+- **MARUTI** `██████████░░` **84.6/100** — BUY WATCH
+- **TATASTEEL** `██████████░░` **84.6/100** — BUY WATCH
 
 # 💼 Investment ranking
 
 | # | Stock | Score | View | Quality | Valuation | Technical | Risk | 6M RS | P/E | ROE | D/E | Price | SL | Qty |
 |---:|---|---:|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 1 | **ICICIBANK** | **79.2** | **ACCUMULATE** | 81.0 | 81.0 | 85.0 | 42.0 | 20.8% | 19.46 | 16.5% | — | ₹1583.60 | ₹1531.87 | 9 |
-| 2 | **KOTAKBANK** | **78.0** | **ACCUMULATE** | 73.0 | 74.0 | 96.0 | 42.0 | 22.0% | 22.90 | 11.8% | — | ₹488.55 | ₹472.49 | 30 |
-| 3 | **BHARTIARTL** | **73.4** | **ACCUMULATE** | 88.0 | 47.0 | 96.0 | 42.0 | 10.3% | 42.40 | 21.4% | 100.02 | ₹2106.00 | ₹2035.41 | 7 |
-| 4 | **AXISBANK** | **72.3** | **ACCUMULATE** | 81.0 | 81.0 | 72.0 | 50.0 | -1.4% | 14.01 | 13.9% | — | ₹1331.00 | ₹1288.95 | 11 |
-| 5 | **SBIN** | **72.1** | **ACCUMULATE** | 76.0 | 81.0 | 73.0 | 50.0 | 3.9% | 11.13 | 14.7% | — | ₹1080.00 | ₹1042.72 | 13 |
-| 6 | **BAJFINANCE** | **70.4** | **WATCH** | 69.0 | 55.0 | 96.0 | 35.0 | 17.2% | 31.91 | 19.0% | 342.42 | ₹1117.00 | ₹1070.15 | 13 |
-| 7 | **HDFCBANK** | **68.4** | **WATCH** | 73.0 | 81.0 | 65.0 | 50.0 | -0.1% | 17.85 | 11.0% | — | ₹804.00 | ₹777.30 | 18 |
-| 8 | **SUNPHARMA** | **67.2** | **WATCH** | 77.0 | 55.0 | 85.0 | 50.0 | -4.4% | 40.86 | 13.1% | 3.62 | ₹1880.00 | ₹1806.34 | 7 |
-| 9 | **TCS** | **66.2** | **WATCH** | 95.0 | 67.0 | 45.0 | 50.0 | -1.5% | 16.86 | 45.6% | 9.83 | ₹2407.50 | ₹2313.33 | 6 |
-| 10 | **TITAN** | **65.4** | **WATCH** | 68.0 | 37.0 | 100.0 | 35.0 | 11.0% | 61.97 | 45.3% | 218.56 | ₹4844.90 | ₹4652.84 | 3 |
-| 11 | **HAL** | **65.3** | **WATCH** | 100.0 | 47.0 | 57.0 | 50.0 | -3.3% | 33.41 | 23.6% | 0.02 | ₹4809.80 | ₹4594.31 | 3 |
-| 12 | **ULTRACEMCO** | **65.2** | **WATCH** | 80.0 | 55.0 | 72.0 | 50.0 | -2.9% | 41.03 | 11.5% | 37.69 | ₹12100.00 | ₹11695.00 | 1 |
-| 13 | **RELIANCE** | **64.8** | **WATCH** | 77.0 | 74.0 | 60.0 | 50.0 | -8.8% | 22.16 | 8.8% | 44.33 | ₹1339.70 | ₹1290.07 | 11 |
-| 14 | **TATASTEEL** | **63.5** | **WATCH** | 70.0 | 81.0 | 67.0 | 50.0 | -22.4% | 19.60 | 11.7% | 96.86 | ₹186.68 | ₹179.38 | 80 |
-| 15 | **LT** | **63.1** | **WATCH** | 78.0 | 55.0 | 65.0 | 50.0 | -1.6% | 31.89 | 17.9% | 105.29 | ₹4143.80 | ₹4010.02 | 3 |
-| 16 | **INFY** | **62.5** | **WATCH** | 79.0 | 75.0 | 45.0 | 50.0 | -5.8% | 15.25 | 29.9% | 8.57 | ₹1141.50 | ₹1086.53 | 13 |
-| 17 | **OIL** | **60.3** | **AVOID** | 93.0 | 81.0 | 25.0 | 50.0 | -20.3% | 7.78 | 15.8% | 58.79 | ₹441.50 | ₹422.60 | 33 |
-| 18 | **ITC** | **59.7** | **AVOID** | 79.0 | 75.0 | 40.0 | 50.0 | -13.8% | 19.58 | 26.8% | 0.68 | ₹285.00 | ₹274.79 | 52 |
-| 19 | **MARUTI** | **57.3** | **AVOID** | 69.0 | 74.0 | 40.0 | 50.0 | -9.3% | 29.38 | 12.9% | 0.08 | ₹12854.00 | ₹12411.40 | 1 |
-| 20 | **IRB** | **57.3** | **AVOID** | 73.0 | 74.0 | 40.0 | 50.0 | -15.5% | 20.36 | 5.2% | 93.92 | ₹18.78 | ₹17.82 | 798 |
+| 1 | **ICICIBANK** | **79.2** | **ACCUMULATE** | 81.0 | 81.0 | 85.0 | 42.0 | 21.1% | 19.63 | 16.5% | — | ₹1598.70 | ₹1546.52 | 9 |
+| 2 | **KOTAKBANK** | **75.1** | **ACCUMULATE** | 73.0 | 74.0 | 85.0 | 42.0 | 21.1% | 23.04 | 11.8% | — | ₹497.25 | ₹481.57 | 30 |
+| 3 | **BHARTIARTL** | **72.3** | **ACCUMULATE** | 88.0 | 47.0 | 96.0 | 42.0 | 4.8% | 42.10 | 21.4% | 100.02 | ₹2138.30 | ₹2069.26 | 7 |
+| 4 | **AXISBANK** | **70.5** | **WATCH** | 81.0 | 81.0 | 65.0 | 42.0 | 2.6% | 14.29 | 13.9% | — | ₹1369.00 | ₹1325.71 | 10 |
+| 5 | **SBIN** | **70.1** | **WATCH** | 76.0 | 81.0 | 62.0 | 50.0 | 7.7% | 11.32 | 14.7% | — | ₹1108.60 | ₹1070.86 | 13 |
+| 6 | **BAJFINANCE** | **69.3** | **WATCH** | 69.0 | 55.0 | 96.0 | 27.0 | 15.8% | 32.23 | 19.0% | 342.42 | ₹1121.10 | ₹1073.89 | 13 |
+| 7 | **HDFCBANK** | **68.2** | **WATCH** | 73.0 | 81.0 | 65.0 | 50.0 | -1.2% | 17.81 | 11.0% | — | ₹814.95 | ₹787.82 | 18 |
+| 8 | **SUNPHARMA** | **67.8** | **WATCH** | 77.0 | 55.0 | 90.0 | 50.0 | -7.8% | 40.92 | 13.1% | 3.62 | ₹1870.00 | ₹1795.69 | 8 |
+| 9 | **RELIANCE** | **66.8** | **WATCH** | 77.0 | 74.0 | 65.0 | 50.0 | -5.1% | 22.53 | 8.8% | 44.33 | ₹1367.00 | ₹1316.94 | 10 |
+| 10 | **TCS** | **66.3** | **WATCH** | 95.0 | 67.0 | 45.0 | 50.0 | -1.1% | 16.87 | 45.6% | 9.83 | ₹2406.60 | ₹2312.61 | 6 |
+| 11 | **HAL** | **66.1** | **WATCH** | 100.0 | 47.0 | 57.0 | 50.0 | 0.4% | 32.97 | 23.6% | 0.02 | ₹4727.00 | ₹4530.17 | 3 |
+| 12 | **ULTRACEMCO** | **65.7** | **WATCH** | 80.0 | 55.0 | 72.0 | 50.0 | -0.4% | 41.68 | 11.5% | 37.69 | ₹12290.00 | ₹11884.15 | 1 |
+| 13 | **TITAN** | **65.2** | **WATCH** | 68.0 | 37.0 | 100.0 | 35.0 | 10.3% | 62.78 | 45.3% | 218.56 | ₹4908.00 | ₹4719.75 | 3 |
+| 14 | **LT** | **63.2** | **WATCH** | 78.0 | 55.0 | 65.0 | 50.0 | -1.1% | 32.01 | 17.9% | 105.29 | ₹4155.50 | ₹4022.45 | 3 |
+| 15 | **INFY** | **62.4** | **WATCH** | 79.0 | 75.0 | 45.0 | 50.0 | -6.4% | 15.05 | 29.9% | 8.57 | ₹1130.00 | ₹1080.85 | 13 |
+| 16 | **ASIANPAINT** | **61.2** | **AVOID** | 90.0 | 37.0 | 65.0 | 50.0 | -6.6% | 52.02 | 23.0% | 20.51 | ₹2625.00 | ₹2511.12 | 5 |
+| 17 | **OIL** | **59.7** | **AVOID** | 93.0 | 81.0 | 25.0 | 50.0 | -23.7% | 7.64 | 15.8% | 58.79 | ₹433.50 | ₹414.60 | 34 |
+| 18 | **IRB** | **58.4** | **AVOID** | 73.0 | 81.0 | 40.0 | 50.0 | -19.0% | 19.94 | 5.2% | 93.92 | ₹17.95 | ₹16.97 | 835 |
+| 19 | **ITC** | **58.2** | **AVOID** | 79.0 | 75.0 | 33.0 | 50.0 | -12.6% | 19.46 | 26.8% | 0.68 | ₹293.30 | ₹282.49 | 51 |
+| 20 | **ONGC** | **57.0** | **AVOID** | 85.0 | 81.0 | 25.0 | 50.0 | -32.7% | 5.68 | 12.1% | 42.22 | ₹223.52 | ₹215.56 | 67 |
 
 ## 📈 Investment score cards
 
@@ -89,80 +96,80 @@ Nifty **25144.30** · Change **-0.61%** · RSI **76.0** · EMA20 **23985.39** ·
 
 | Metric | Score | Metric | Value |
 |---|---:|---|---:|
-| Quality | 81.0 | P/E | 19.46 |
+| Quality | 81.0 | P/E | 19.63 |
 | Valuation | 81.0 | ROE | 16.5% |
 | Technical | 85.0 | D/E | — |
 | Risk | 42.0 | Rev growth | 15.8% |
 
-**Levels:** Reference ₹1583.60 · SL **₹1531.87** · T1 **₹1652.58** · T2 **₹1721.56** · Position **9 shares**.
+**Levels:** Reference ₹1598.70 · SL **₹1546.52** · T1 **₹1668.28** · T2 **₹1737.86** · Position **9 shares**.
 
 ### 🥈 KOTAKBANK — ACCUMULATE
 
-**78.0/100** `████████████████░░░░` · **Confidence:** MEDIUM · **Horizon:** 1–3 years
+**75.1/100** `███████████████░░░░░` · **Confidence:** MEDIUM · **Horizon:** 1–3 years
 
 | Metric | Score | Metric | Value |
 |---|---:|---|---:|
-| Quality | 73.0 | P/E | 22.90 |
+| Quality | 73.0 | P/E | 23.04 |
 | Valuation | 74.0 | ROE | 11.8% |
-| Technical | 96.0 | D/E | — |
+| Technical | 85.0 | D/E | — |
 | Risk | 42.0 | Rev growth | 20.7% |
 
-**Levels:** Reference ₹488.55 · SL **₹472.49** · T1 **₹509.97** · T2 **₹531.39** · Position **30 shares**.
+**Levels:** Reference ₹497.25 · SL **₹481.57** · T1 **₹518.15** · T2 **₹539.05** · Position **30 shares**.
 
 ### 🥉 BHARTIARTL — ACCUMULATE
-
-**73.4/100** `███████████████░░░░░` · **Confidence:** MEDIUM · **Horizon:** 1–3 years
-
-| Metric | Score | Metric | Value |
-|---|---:|---|---:|
-| Quality | 88.0 | P/E | 42.40 |
-| Valuation | 47.0 | ROE | 21.4% |
-| Technical | 96.0 | D/E | 100.02 |
-| Risk | 42.0 | Rev growth | 16.7% |
-
-**Levels:** Reference ₹2106.00 · SL **₹2035.41** · T1 **₹2200.12** · T2 **₹2294.24** · Position **7 shares**.
-
-### ▪️ AXISBANK — ACCUMULATE
 
 **72.3/100** `██████████████░░░░░░` · **Confidence:** MEDIUM · **Horizon:** 1–3 years
 
 | Metric | Score | Metric | Value |
 |---|---:|---|---:|
-| Quality | 81.0 | P/E | 14.01 |
-| Valuation | 81.0 | ROE | 13.9% |
-| Technical | 72.0 | D/E | — |
-| Risk | 50.0 | Rev growth | 21.1% |
+| Quality | 88.0 | P/E | 42.10 |
+| Valuation | 47.0 | ROE | 21.4% |
+| Technical | 96.0 | D/E | 100.02 |
+| Risk | 42.0 | Rev growth | 16.7% |
 
-**Levels:** Reference ₹1331.00 · SL **₹1288.95** · T1 **₹1387.06** · T2 **₹1443.12** · Position **11 shares**.
+**Levels:** Reference ₹2138.30 · SL **₹2069.26** · T1 **₹2230.36** · T2 **₹2322.42** · Position **7 shares**.
 
-### ▪️ SBIN — ACCUMULATE
+### ▪️ AXISBANK — WATCH
 
-**72.1/100** `██████████████░░░░░░` · **Confidence:** MEDIUM · **Horizon:** 1–3 years
+**70.5/100** `██████████████░░░░░░` · **Confidence:** MEDIUM · **Horizon:** watch / reassess
 
 | Metric | Score | Metric | Value |
 |---|---:|---|---:|
-| Quality | 76.0 | P/E | 11.13 |
+| Quality | 81.0 | P/E | 14.29 |
+| Valuation | 81.0 | ROE | 13.9% |
+| Technical | 65.0 | D/E | — |
+| Risk | 42.0 | Rev growth | 21.1% |
+
+**Levels:** Reference ₹1369.00 · SL **₹1325.71** · T1 **₹1426.72** · T2 **₹1484.44** · Position **10 shares**.
+
+### ▪️ SBIN — WATCH
+
+**70.1/100** `██████████████░░░░░░` · **Confidence:** MEDIUM · **Horizon:** watch / reassess
+
+| Metric | Score | Metric | Value |
+|---|---:|---|---:|
+| Quality | 76.0 | P/E | 11.32 |
 | Valuation | 81.0 | ROE | 14.7% |
-| Technical | 73.0 | D/E | — |
+| Technical | 62.0 | D/E | — |
 | Risk | 50.0 | Rev growth | 7.8% |
 
-**Levels:** Reference ₹1080.00 · SL **₹1042.72** · T1 **₹1129.70** · T2 **₹1179.40** · Position **13 shares**.
+**Levels:** Reference ₹1108.60 · SL **₹1070.86** · T1 **₹1158.92** · T2 **₹1209.24** · Position **13 shares**.
 
 
 # ⚡ Intraday setups
 
 | Stock | Direction | Trigger | Stop | T1 | T2 | R/R |
 |---|---|---:|---:|---:|---:|---:|
-| **BAJFINANCE** | **LONG WATCH** | 1110.00 | 1093.97 | 1142.06 | 1158.08 | 3.0 |
-| **RELIANCE** | **LONG WATCH** | 1345.10 | 1327.63 | 1380.04 | 1397.51 | 3.0 |
-| **BHARTIARTL** | **LONG WATCH** | 2156.30 | 2106.34 | 2256.22 | 2306.17 | 3.0 |
-| **HDFCBANK** | **LONG WATCH** | 816.50 | 805.32 | 838.86 | 850.04 | 3.0 |
-| **ULTRACEMCO** | **LONG WATCH** | 12292.00 | 12165.86 | 12544.27 | 12670.41 | 3.0 |
-| **LT** | **SHORT WATCH** | 4118.60 | 4172.40 | 4010.99 | 3957.19 | 3.0 |
-| **TATASTEEL** | **SHORT WATCH** | 181.37 | 186.76 | 170.59 | 165.19 | 3.0 |
-| **SUNPHARMA** | **SHORT WATCH** | 1858.90 | 1895.67 | 1785.36 | 1748.58 | 3.0 |
-| **IRB** | **SHORT WATCH** | 18.06 | 18.44 | 17.30 | 16.92 | 3.0 |
-| **INFY** | **SHORT WATCH** | 1138.20 | 1150.83 | 1112.95 | 1100.32 | 3.0 |
+| **SBIN** | **LONG WATCH** | 1110.00 | 1083.54 | 1162.93 | 1189.39 | 3.0 |
+| **KOTAKBANK** | **LONG WATCH** | 499.90 | 490.17 | 519.35 | 529.08 | 3.0 |
+| **AXISBANK** | **LONG WATCH** | 1374.00 | 1345.90 | 1430.20 | 1458.29 | 3.0 |
+| **BAJFINANCE** | **LONG WATCH** | 1125.10 | 1102.40 | 1170.50 | 1193.20 | 3.0 |
+| **ADANIENT** | **LONG WATCH** | 2755.90 | 2680.43 | 2906.84 | 2982.31 | 3.0 |
+| **LT** | **SHORT WATCH** | 4155.50 | 4225.22 | 4016.06 | 3946.34 | 3.0 |
+| **SUNPHARMA** | **SHORT WATCH** | 1870.00 | 1888.39 | 1833.21 | 1814.82 | 3.0 |
+| **BHARTIARTL** | **SHORT WATCH** | 2122.70 | 2169.79 | 2028.51 | 1981.41 | 3.0 |
+| **ULTRACEMCO** | **SHORT WATCH** | 12269.00 | 12386.62 | 12033.75 | 11916.13 | 3.0 |
+| **MARUTI** | **SHORT WATCH** | 12623.00 | 12923.02 | 12022.96 | 11722.94 | 3.0 |
 
 # 🚨 Risk / avoid
 
@@ -192,7 +199,8 @@ Nifty **25144.30** · Change **-0.61%** · RSI **76.0** · EMA20 **23985.39** ·
 *IPO subscription measures demand, not quality. GMP is unofficial; verify the RHP and official exchange disclosures.*
 
 # 🧠 What changed today?
-- No major rule-based changes detected.
+- Nifty: 25144.3 → 25387.4
+- RSI: 76.0 → 78.1
 
 # 🏆 Today's final call
 
@@ -200,7 +208,7 @@ Nifty **25144.30** · Change **-0.61%** · RSI **76.0** · EMA20 **23985.39** ·
 |---|---|
 | Market | **SELECTIVE** |
 | Best investment | **ICICIBANK** · ACCUMULATE |
-| Best trading setup | **BAJFINANCE** |
+| Best trading setup | **SBIN** |
 | Top 3 investments | **ICICIBANK, KOTAKBANK, BHARTIARTL** |
 | Action | **Do not force a trade; wait for price + risk + thesis alignment.** |
 
