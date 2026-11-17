@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T16:31:40.177896+00:00",
+  "generated_at": "2026-11-17T17:49:28.314158+00:00",
   "mode": "open",
   "market": {
     "price": 25387.4,
@@ -289,7 +289,7 @@
         "intraday_score": 75,
         "trigger": 1374.0,
         "stop_loss": 1345.9,
-        "target1": 1430.2,
+        "target1": 1430.19,
         "target2": 1458.29,
         "risk_reward": 3.0
       },
@@ -1501,7 +1501,7 @@
         "intraday_score": 75,
         "trigger": 1374.0,
         "stop_loss": 1345.9,
-        "target1": 1430.2,
+        "target1": 1430.19,
         "target2": 1458.29,
         "risk_reward": 3.0
       },
