@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 18 November 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-11-18T11:48:33.680307+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-11-18T12:16:55.089952+00:00
 
 ### Market regime: **SELECTIVE**
 
@@ -16,12 +16,19 @@ Nifty **25227.95** · Change **-0.63%** · RSI **73.3** · EMA20 **24326.34** ·
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 89.95 | -3.42% | Oil/inflation risk |
+| Brent crude | 89.96 | -3.41% | Oil/inflation risk |
 | USD/INR | 93.44 | -0.56% | Rupee pressure |
 | India VIX | 15.52 | 0.00% | Volatility gauge |
 | Nifty Bank | 62038.65 | -0.38% | Banking breadth |
 | S&P 500 | 7340.53 | -1.03% | Global risk cue |
 | Nasdaq | 24328.38 | -0.74% | Global tech cue |
+
+### 📰 Fresh market headlines
+
+- **Moneycontrol:** Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher
+- **Moneycontrol:** Sensex, Nifty gain for third day in a row; easing volatility to support bull trend
+- **Moneycontrol:** Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years
+- **Moneycontrol:** Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action
 
 # 🎯 Trading opportunities
 
@@ -192,8 +199,7 @@ Nifty **25227.95** · Change **-0.63%** · RSI **73.3** · EMA20 **24326.34** ·
 *IPO subscription measures demand, not quality. GMP is unofficial; verify the RHP and official exchange disclosures.*
 
 # 🧠 What changed today?
-- Nifty: 25291.1 → 25227.95
-- RSI: 77.3 → 73.3
+- No major rule-based changes detected.
 
 # 🏆 Today's final call
 
