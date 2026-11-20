@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 20 November 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-11-20T11:46:21.532064+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-11-20T12:12:58.949779+00:00
 
 ### Market regime: **SELECTIVE**
 
@@ -16,9 +16,9 @@ Nifty **25800.60** · Change **1.12%** · RSI **78.6** · EMA20 **24569.11** · 
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 89.25 | -2.97% | Oil/inflation risk |
+| Brent crude | 89.27 | -2.95% | Oil/inflation risk |
 | USD/INR | 92.69 | -0.83% | Rupee pressure |
-| India VIX | 17.32 | 7.51% | Volatility gauge |
+| India VIX | 16.11 | 3.47% | Volatility gauge |
 | Nifty Bank | 64635.20 | 2.49% | Banking breadth |
 | S&P 500 | 7175.83 | -2.02% | Global risk cue |
 | Nasdaq | 23879.20 | -2.25% | Global tech cue |
@@ -80,7 +80,7 @@ Nifty **25800.60** · Change **1.12%** · RSI **78.6** · EMA20 **24569.11** · 
 | 11 | **ITC** | **65.1** | **WATCH** | 79.0 | 75.0 | 60.0 | 50.0 | -11.8% | 19.85 | 26.8% | 0.68 | ₹299.10 | ₹288.33 | 50 |
 | 12 | **RELIANCE** | **63.6** | **WATCH** | 77.0 | 74.0 | 54.0 | 50.0 | -7.7% | 22.70 | 8.8% | 44.33 | ₹1377.50 | ₹1328.97 | 10 |
 | 13 | **LT** | **63.1** | **WATCH** | 78.0 | 55.0 | 65.0 | 50.0 | -1.4% | 32.42 | 17.9% | 105.29 | ₹4209.10 | ₹4089.76 | 3 |
-| 14 | **ASIANPAINT** | **62.5** | **WATCH** | 90.0 | 37.0 | 72.0 | 50.0 | -8.7% | 51.99 | 23.0% | 20.51 | ₹2608.30 | ₹2502.64 | 5 |
+| 14 | **ASIANPAINT** | **62.5** | **WATCH** | 90.0 | 37.0 | 72.0 | 50.0 | -8.7% | 51.69 | 23.0% | 20.51 | ₹2608.30 | ₹2502.64 | 5 |
 | 15 | **TCS** | **61.4** | **AVOID** | 95.0 | 67.0 | 30.0 | 50.0 | -7.0% | 16.66 | 45.6% | 9.83 | ₹2376.20 | ₹2282.61 | 6 |
 | 16 | **OIL** | **59.7** | **AVOID** | 93.0 | 81.0 | 25.0 | 50.0 | -23.4% | 7.61 | 15.8% | 58.79 | ₹432.00 | ₹413.87 | 34 |
 | 17 | **MARUTI** | **57.7** | **AVOID** | 69.0 | 55.0 | 54.0 | 50.0 | -1.3% | 32.75 | 12.9% | 0.08 | ₹14011.00 | ₹13423.43 | 1 |
@@ -199,8 +199,7 @@ Nifty **25800.60** · Change **1.12%** · RSI **78.6** · EMA20 **24569.11** · 
 *IPO subscription measures demand, not quality. GMP is unofficial; verify the RHP and official exchange disclosures.*
 
 # 🧠 What changed today?
-- Nifty: 25227.95 → 25800.6
-- RSI: 73.3 → 78.6
+- No major rule-based changes detected.
 
 # 🏆 Today's final call
 
