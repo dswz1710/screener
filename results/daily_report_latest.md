@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 20 November 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-11-20T14:15:33.754355+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-11-20T15:47:53.728404+00:00
 
 ### Market regime: **SELECTIVE**
 
@@ -16,12 +16,12 @@ Nifty **25800.60** · Change **1.12%** · RSI **78.6** · EMA20 **24569.11** · 
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 88.94 | -3.31% | Oil/inflation risk |
+| Brent crude | 88.02 | -4.31% | Oil/inflation risk |
 | USD/INR | 92.66 | -0.86% | Rupee pressure |
 | India VIX | 17.32 | 7.51% | Volatility gauge |
 | Nifty Bank | 64635.20 | 2.49% | Banking breadth |
-| S&P 500 | 7175.83 | -2.02% | Global risk cue |
-| Nasdaq | 23879.20 | -2.25% | Global tech cue |
+| S&P 500 | 7083.94 | -1.28% | Global risk cue |
+| Nasdaq | 23263.16 | -2.58% | Global tech cue |
 
 ### 📰 Fresh market headlines
 
