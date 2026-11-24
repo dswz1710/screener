@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 24 November 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-11-24T18:24:32.302067+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-11-24T19:40:03.266514+00:00
 
 ### Market regime: **SELECTIVE**
 
@@ -16,19 +16,12 @@ Nifty **25349.65** · Change **-1.75%** · RSI **67.0** · EMA20 **24643.44** ·
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 87.95 | -1.59% | Oil/inflation risk |
-| USD/INR | 92.71 | 0.04% | Rupee pressure |
+| Brent crude | 88.75 | -0.69% | Oil/inflation risk |
+| USD/INR | 92.91 | 0.26% | Rupee pressure |
 | India VIX | 17.70 | 2.19% | Volatility gauge |
 | Nifty Bank | 62585.35 | -3.17% | Banking breadth |
-| S&P 500 | 7200.69 | -0.50% | Global risk cue |
-| Nasdaq | 23739.34 | -1.45% | Global tech cue |
-
-### 📰 Fresh market headlines
-
-- **Moneycontrol:** Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher
-- **Moneycontrol:** Sensex, Nifty gain for third day in a row; easing volatility to support bull trend
-- **Moneycontrol:** Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years
-- **Moneycontrol:** Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action
+| S&P 500 | 7188.93 | -0.67% | Global risk cue |
+| Nasdaq | 23667.37 | -1.75% | Global tech cue |
 
 # 🎯 Trading opportunities
 
