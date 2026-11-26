@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 26 November 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-11-26T14:14:26.758631+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-11-26T15:35:29.188883+00:00
 
 ### Market regime: **SELECTIVE**
 
@@ -16,8 +16,8 @@ Nifty **25884.50** · Change **0.25%** · RSI **72.3** · EMA20 **24862.96** · 
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 91.19 | -3.61% | Oil/inflation risk |
-| USD/INR | 92.54 | -0.29% | Rupee pressure |
+| Brent crude | 91.39 | -3.40% | Oil/inflation risk |
+| USD/INR | 92.43 | -0.40% | Rupee pressure |
 | India VIX | 16.83 | -4.73% | Volatility gauge |
 | Nifty Bank | 63535.30 | -0.26% | Banking breadth |
 | S&P 500 | 7182.78 | -0.25% | Global risk cue |
@@ -39,7 +39,7 @@ Nifty **25884.50** · Change **0.25%** · RSI **72.3** · EMA20 **24862.96** · 
 | 3 | **BHARTIARTL** | **93.8** | **BUY WATCH** | STRONG BULLISH | 59.6 | -0.71% | 6.2% | 11.9% | 2097.10 | 2135.04 | 2021.22 | 1983.28 | 3.0 |
 | 4 | **SUNPHARMA** | **89.3** | **BUY WATCH** | STRONG BULLISH | 65.2 | 0.77% | 9.4% | 0.1% | 1915.70 | 1893.53 | 1960.04 | 1982.21 | 3.0 |
 | 5 | **TCS** | **88.8** | **BUY WATCH** | STRONG BULLISH | 70.7 | 4.89% | 5.7% | 17.4% | 2640.30 | 2479.60 | 2961.70 | 3122.40 | 3.0 |
-| 6 | **INFY** | **87.1** | **BUY WATCH** | BULLISH | 61.1 | 4.69% | 1.7% | 6.5% | 1185.00 | 1123.04 | 1308.92 | 1370.88 | 3.0 |
+| 6 | **INFY** | **87.1** | **BUY WATCH** | BULLISH | 61.1 | 4.69% | 1.7% | 6.5% | 1185.00 | 1123.04 | 1308.92 | 1370.89 | 3.0 |
 | 7 | **SBIN** | **87.1** | **BUY WATCH** | STRONG BULLISH | 70.5 | -0.13% | 20.3% | 9.0% | 1134.60 | 1150.78 | 1102.25 | 1086.07 | 3.0 |
 | 8 | **BAJFINANCE** | **87.1** | **BUY WATCH** | STRONG BULLISH | 58.2 | -2.96% | 20.4% | 1.4% | 1097.85 | 1119.52 | 1054.51 | 1032.84 | 3.0 |
 | 9 | **KOTAKBANK** | **78.1** | **BUY WATCH** | STRONG BULLISH | 71.4 | 0.19% | 15.2% | 20.2% | — | — | — | — | — |
@@ -162,7 +162,7 @@ Nifty **25884.50** · Change **0.25%** · RSI **72.3** · EMA20 **24862.96** · 
 |---|---|---:|---:|---:|---:|---:|
 | **SUNPHARMA** | **LONG WATCH** | 1915.70 | 1893.53 | 1960.04 | 1982.21 | 3.0 |
 | **TCS** | **LONG WATCH** | 2640.30 | 2479.60 | 2961.70 | 3122.40 | 3.0 |
-| **INFY** | **LONG WATCH** | 1185.00 | 1123.04 | 1308.92 | 1370.88 | 3.0 |
+| **INFY** | **LONG WATCH** | 1185.00 | 1123.04 | 1308.92 | 1370.89 | 3.0 |
 | **TATASTEEL** | **LONG WATCH** | 164.85 | 161.69 | 171.18 | 174.35 | 3.0 |
 | **AXISBANK** | **SHORT WATCH** | 1401.60 | 1420.06 | 1364.67 | 1346.20 | 3.0 |
 | **ICICIBANK** | **SHORT WATCH** | 1604.70 | 1628.70 | 1556.69 | 1532.69 | 3.0 |
