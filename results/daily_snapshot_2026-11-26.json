@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T12:42:18.561468+00:00",
+  "generated_at": "2026-11-26T13:12:35.582016+00:00",
   "market": {
     "price": 25884.5,
     "change_pct": 0.25,
@@ -344,7 +344,7 @@
         "trigger": 1185.0,
         "stop_loss": 1123.04,
         "target1": 1308.92,
-        "target2": 1370.89,
+        "target2": 1370.88,
         "risk_reward": 3.0
       },
       "catalyst": null,
