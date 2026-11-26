@@ -1,6 +1,6 @@
 ## 🇮🇳 Market Pulse — 26 November 2026
 
-**Scan:** OPEN · **Engine timestamp:** 2026-11-26T18:35:42.425774+00:00
+**Scan:** OPEN · **Engine timestamp:** 2026-11-26T19:14:45.246205+00:00
 
 ### Market regime: **SELECTIVE**
 
@@ -16,7 +16,7 @@ Nifty **25819.25** · Change **1.85%** · RSI **71.7** · EMA20 **24755.43** · 
 
 | Indicator | Latest | Change | Analyst read |
 |---|---:|---:|---|
-| Brent crude | 91.62 | -3.16% | Oil/inflation risk |
+| Brent crude | 91.66 | -3.12% | Oil/inflation risk |
 | USD/INR | 92.43 | -0.40% | Rupee pressure |
 | India VIX | 17.67 | -0.17% | Volatility gauge |
 | Nifty Bank | 63703.25 | 1.79% | Banking breadth |
@@ -34,7 +34,7 @@ Nifty **25819.25** · Change **1.85%** · RSI **71.7** · EMA20 **24755.43** · 
 | 5 | **TCS** | **88.8** | **BUY WATCH** | STRONG BULLISH | 62.4 | 2.33% | -0.7% | 10.9% | 2640.30 | 2479.60 | 2961.70 | 3122.40 | 3.0 |
 | 6 | **BAJFINANCE** | **88.8** | **BUY WATCH** | STRONG BULLISH | 65.8 | 3.27% | 23.1% | 4.3% | 1097.85 | 1119.52 | 1054.51 | 1032.84 | 3.0 |
 | 7 | **SBIN** | **87.1** | **BUY WATCH** | STRONG BULLISH | 71.0 | 0.49% | 18.5% | 8.2% | 1134.60 | 1150.78 | 1102.25 | 1086.07 | 3.0 |
-| 8 | **INFY** | **83.2** | **BUY WATCH** | BULLISH | 51.6 | 2.41% | -3.1% | 0.9% | 1185.00 | 1123.04 | 1308.92 | 1370.88 | 3.0 |
+| 8 | **INFY** | **83.2** | **BUY WATCH** | BULLISH | 51.6 | 2.41% | -3.1% | 0.9% | 1185.00 | 1123.04 | 1308.92 | 1370.89 | 3.0 |
 | 9 | **ASIANPAINT** | **81.6** | **BUY WATCH** | STRONG BULLISH | 65.4 | 1.58% | 12.9% | -0.2% | 2540.10 | 2589.01 | 2442.28 | 2393.36 | 3.0 |
 | 10 | **ULTRACEMCO** | **79.8** | **BUY WATCH** | STRONG BULLISH | 68.7 | 1.19% | 14.5% | 9.2% | — | — | — | — | — |
 | 11 | **KOTAKBANK** | **78.1** | **BUY WATCH** | STRONG BULLISH | 71.1 | 1.22% | 15.5% | 22.1% | — | — | — | — | — |
@@ -155,7 +155,7 @@ Nifty **25819.25** · Change **1.85%** · RSI **71.7** · EMA20 **24755.43** · 
 |---|---|---:|---:|---:|---:|---:|
 | **SUNPHARMA** | **LONG WATCH** | 1915.70 | 1893.53 | 1960.04 | 1982.21 | 3.0 |
 | **TCS** | **LONG WATCH** | 2640.30 | 2479.60 | 2961.70 | 3122.40 | 3.0 |
-| **INFY** | **LONG WATCH** | 1185.00 | 1123.04 | 1308.92 | 1370.88 | 3.0 |
+| **INFY** | **LONG WATCH** | 1185.00 | 1123.04 | 1308.92 | 1370.89 | 3.0 |
 | **TATASTEEL** | **LONG WATCH** | 164.85 | 161.69 | 171.18 | 174.35 | 3.0 |
 | **ICICIBANK** | **SHORT WATCH** | 1604.70 | 1628.70 | 1556.69 | 1532.69 | 3.0 |
 | **AXISBANK** | **SHORT WATCH** | 1401.60 | 1420.06 | 1364.67 | 1346.20 | 3.0 |
@@ -191,9 +191,7 @@ Nifty **25819.25** · Change **1.85%** · RSI **71.7** · EMA20 **24755.43** · 
 *IPO subscription measures demand, not quality. GMP is unofficial; verify the RHP and official exchange disclosures.*
 
 # 🧠 What changed today?
-- Nifty: 25884.5 → 25819.25
-- RSI: 72.3 → 71.7
-- ASIANPAINT: BUY-ON-DIPS → BUY WATCH
+- No major rule-based changes detected.
 
 # 🏆 Today's final call
 
