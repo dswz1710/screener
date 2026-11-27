@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-27T18:24:34.749316+00:00",
+  "generated_at": "2026-11-27T19:09:26.357356+00:00",
   "quotes": {
     "Brent crude": {
-      "value": 90.29000091552734,
-      "change_pct": -4.566113166636587,
-      "asof": "2026-11-27T18:13:41+00:00"
+      "value": 90.44999694824219,
+      "change_pct": -4.397002045526055,
+      "asof": "2026-11-27T18:58:49+00:00"
     },
     "USD/INR": {
       "value": 92.9800033569336,
@@ -12,13 +12,13 @@
       "asof": "2026-11-27T00:00:00+00:00"
     },
     "India VIX": {
-      "value": 16.545000076293945,
-      "change_pct": -1.7517819098630483,
+      "value": 16.84000015258789,
+      "change_pct": -4.697226486261208,
       "asof": "2026-11-27T03:45:00+00:00"
     },
     "Nifty Bank": {
-      "value": 63040.8984375,
-      "change_pct": -0.7781537785619519,
+      "value": 63535.30078125,
+      "change_pct": -0.2636430931702849,
       "asof": "2026-11-27T03:45:00+00:00"
     },
     "S&P 500": {
@@ -32,28 +32,7 @@
       "asof": "2026-11-27T14:30:00+00:00"
     }
   },
-  "headlines": [
-    {
-      "source": "Moneycontrol",
-      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
-      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html"
-    },
-    {
-      "source": "Moneycontrol",
-      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html"
-    },
-    {
-      "source": "Moneycontrol",
-      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
-      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html"
-    },
-    {
-      "source": "Moneycontrol",
-      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html"
-    }
-  ],
+  "headlines": [],
   "notes": [
     "Rupee weakness is elevated; importers and margin-sensitive sectors may face pressure."
   ]
