@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T19:08:59.576253+00:00",
+  "generated_at": "2026-11-27T19:28:34.536281+00:00",
   "mode": "open",
   "market": {
     "price": 25884.5,
@@ -345,7 +345,7 @@
         "trigger": 1123.6,
         "stop_loss": 1146.12,
         "target1": 1078.56,
-        "target2": 1056.04,
+        "target2": 1056.05,
         "risk_reward": 3.0
       },
       "catalyst": null,
@@ -564,8 +564,8 @@
         "intraday_score": 70,
         "trigger": 1135.38,
         "stop_loss": 1171.23,
-        "target1": 1063.67,
-        "target2": 1027.82,
+        "target1": 1063.68,
+        "target2": 1027.83,
         "risk_reward": 3.0
       },
       "catalyst": null,
@@ -1114,8 +1114,8 @@
         "intraday_score": 75,
         "trigger": 17.26,
         "stop_loss": 17.67,
-        "target1": 16.43,
-        "target2": 16.02,
+        "target1": 16.44,
+        "target2": 16.03,
         "risk_reward": 3.0
       },
       "catalyst": null,
